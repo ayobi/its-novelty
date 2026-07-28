@@ -1,0 +1,717 @@
+nohup: ignoring input
+Creating output directory: dada2_out/filtered
+                       reads.in reads.out
+SRR13787847_1.fastq.gz    50813     29419
+SRR13787848_1.fastq.gz    54044     24952
+SRR13787849_1.fastq.gz    35111     24034
+SRR13787850_1.fastq.gz    50066     34347
+SRR13787851_1.fastq.gz    39836     29328
+SRR13787852_1.fastq.gz    66772     41474
+105238910 total bases in 453617 reads from 14 samples will be used for learning the error rates.
+104350622 total bases in 453617 reads from 14 samples will be used for learning the error rates.
+Sample 1 - 29419 reads in 12633 unique sequences.
+Sample 2 - 24952 reads in 12214 unique sequences.
+Sample 3 - 24034 reads in 12773 unique sequences.
+Sample 4 - 34347 reads in 16805 unique sequences.
+Sample 5 - 29328 reads in 13465 unique sequences.
+Sample 6 - 41474 reads in 12764 unique sequences.
+Sample 7 - 40444 reads in 12968 unique sequences.
+Sample 8 - 44333 reads in 14130 unique sequences.
+Sample 9 - 43111 reads in 22031 unique sequences.
+Sample 10 - 34551 reads in 17909 unique sequences.
+Sample 11 - 38098 reads in 19247 unique sequences.
+Sample 12 - 22585 reads in 10906 unique sequences.
+Sample 13 - 19040 reads in 8569 unique sequences.
+Sample 14 - 27901 reads in 12684 unique sequences.
+Sample 15 - 40030 reads in 13729 unique sequences.
+Sample 16 - 33712 reads in 13555 unique sequences.
+Sample 17 - 37404 reads in 17623 unique sequences.
+Sample 18 - 32176 reads in 10539 unique sequences.
+Sample 19 - 54406 reads in 17843 unique sequences.
+Sample 20 - 34971 reads in 10714 unique sequences.
+Sample 21 - 36151 reads in 16645 unique sequences.
+Sample 22 - 31741 reads in 17118 unique sequences.
+Sample 23 - 37142 reads in 19819 unique sequences.
+Sample 24 - 32051 reads in 14459 unique sequences.
+Sample 25 - 34669 reads in 14601 unique sequences.
+Sample 26 - 30588 reads in 12808 unique sequences.
+Sample 27 - 35306 reads in 16942 unique sequences.
+Sample 28 - 38474 reads in 15865 unique sequences.
+Sample 29 - 33587 reads in 16619 unique sequences.
+Sample 30 - 38897 reads in 11107 unique sequences.
+Sample 31 - 55202 reads in 12574 unique sequences.
+Sample 32 - 20945 reads in 10713 unique sequences.
+Sample 33 - 32737 reads in 14492 unique sequences.
+Sample 34 - 33638 reads in 14654 unique sequences.
+Sample 35 - 26735 reads in 10290 unique sequences.
+Sample 36 - 26423 reads in 10805 unique sequences.
+Sample 37 - 21246 reads in 8051 unique sequences.
+Sample 38 - 36981 reads in 16819 unique sequences.
+Sample 39 - 34529 reads in 16481 unique sequences.
+Sample 40 - 30793 reads in 13102 unique sequences.
+Sample 41 - 57705 reads in 15128 unique sequences.
+Sample 42 - 43189 reads in 11907 unique sequences.
+Sample 43 - 49852 reads in 13086 unique sequences.
+Sample 44 - 38399 reads in 15423 unique sequences.
+Sample 45 - 32990 reads in 13497 unique sequences.
+Sample 46 - 31549 reads in 11557 unique sequences.
+Sample 47 - 25348 reads in 10236 unique sequences.
+Sample 48 - 23477 reads in 9203 unique sequences.
+Sample 49 - 27408 reads in 11317 unique sequences.
+Sample 50 - 36296 reads in 18989 unique sequences.
+Sample 51 - 27600 reads in 14951 unique sequences.
+Sample 52 - 30248 reads in 15523 unique sequences.
+Sample 53 - 43037 reads in 12462 unique sequences.
+Sample 54 - 46109 reads in 13314 unique sequences.
+Sample 55 - 39497 reads in 11274 unique sequences.
+Sample 56 - 33326 reads in 13981 unique sequences.
+Sample 57 - 25276 reads in 10060 unique sequences.
+Sample 58 - 25796 reads in 10638 unique sequences.
+Sample 59 - 31254 reads in 13991 unique sequences.
+Sample 60 - 34055 reads in 16400 unique sequences.
+Sample 61 - 35146 reads in 15145 unique sequences.
+Sample 62 - 42920 reads in 20256 unique sequences.
+Sample 63 - 27921 reads in 11129 unique sequences.
+Sample 64 - 27967 reads in 12472 unique sequences.
+Sample 65 - 38716 reads in 16251 unique sequences.
+Sample 66 - 47134 reads in 15366 unique sequences.
+Sample 67 - 45876 reads in 14965 unique sequences.
+Sample 68 - 45108 reads in 14665 unique sequences.
+Sample 69 - 27861 reads in 11920 unique sequences.
+Sample 70 - 29679 reads in 11841 unique sequences.
+Sample 71 - 23168 reads in 9688 unique sequences.
+Sample 72 - 36552 reads in 15009 unique sequences.
+Sample 73 - 41774 reads in 17667 unique sequences.
+Sample 74 - 37437 reads in 17054 unique sequences.
+Sample 75 - 4925 reads in 2843 unique sequences.
+Sample 76 - 35422 reads in 13822 unique sequences.
+Sample 77 - 35899 reads in 14520 unique sequences.
+Sample 78 - 46133 reads in 14266 unique sequences.
+Sample 79 - 38866 reads in 11251 unique sequences.
+Sample 80 - 36238 reads in 12033 unique sequences.
+Sample 81 - 37321 reads in 14016 unique sequences.
+Sample 82 - 33521 reads in 13912 unique sequences.
+Sample 83 - 35423 reads in 13177 unique sequences.
+Sample 84 - 43923 reads in 18445 unique sequences.
+Sample 85 - 45732 reads in 15180 unique sequences.
+Sample 86 - 33066 reads in 9998 unique sequences.
+Sample 87 - 37044 reads in 15249 unique sequences.
+Sample 88 - 47876 reads in 14740 unique sequences.
+Sample 89 - 35805 reads in 16660 unique sequences.
+Sample 90 - 33004 reads in 16451 unique sequences.
+Sample 91 - 43947 reads in 19438 unique sequences.
+Sample 92 - 21389 reads in 10309 unique sequences.
+Sample 93 - 28177 reads in 11116 unique sequences.
+Sample 94 - 28135 reads in 12526 unique sequences.
+Sample 95 - 32299 reads in 15453 unique sequences.
+Sample 96 - 35101 reads in 16838 unique sequences.
+Sample 97 - 34572 reads in 17276 unique sequences.
+Sample 98 - 36217 reads in 12964 unique sequences.
+Sample 99 - 42831 reads in 13383 unique sequences.
+Sample 100 - 56657 reads in 18259 unique sequences.
+Sample 101 - 30553 reads in 15295 unique sequences.
+Sample 102 - 32963 reads in 17680 unique sequences.
+Sample 103 - 34425 reads in 17799 unique sequences.
+Sample 104 - 28700 reads in 11855 unique sequences.
+Sample 105 - 40150 reads in 17965 unique sequences.
+Sample 106 - 26437 reads in 12988 unique sequences.
+Sample 107 - 29668 reads in 16272 unique sequences.
+Sample 108 - 32262 reads in 16534 unique sequences.
+Sample 109 - 28648 reads in 17555 unique sequences.
+Sample 110 - 43848 reads in 14827 unique sequences.
+Sample 111 - 35032 reads in 11041 unique sequences.
+Sample 112 - 35632 reads in 11718 unique sequences.
+Sample 113 - 29615 reads in 15104 unique sequences.
+Sample 114 - 35317 reads in 17782 unique sequences.
+Sample 115 - 37393 reads in 18030 unique sequences.
+Sample 116 - 30961 reads in 12514 unique sequences.
+Sample 117 - 46192 reads in 15469 unique sequences.
+Sample 118 - 42882 reads in 15789 unique sequences.
+Sample 119 - 52290 reads in 17316 unique sequences.
+Sample 120 - 33444 reads in 19390 unique sequences.
+Sample 121 - 37133 reads in 19836 unique sequences.
+Sample 122 - 37703 reads in 21028 unique sequences.
+Sample 123 - 43153 reads in 18467 unique sequences.
+Sample 124 - 36280 reads in 14436 unique sequences.
+Sample 125 - 48690 reads in 11777 unique sequences.
+Sample 126 - 22348 reads in 10432 unique sequences.
+Sample 127 - 22057 reads in 11976 unique sequences.
+Sample 128 - 23127 reads in 10269 unique sequences.
+Sample 129 - 38588 reads in 15139 unique sequences.
+Sample 130 - 36787 reads in 13222 unique sequences.
+Sample 131 - 36510 reads in 13929 unique sequences.
+Sample 132 - 26963 reads in 16350 unique sequences.
+Sample 133 - 28532 reads in 15638 unique sequences.
+Sample 134 - 29784 reads in 15609 unique sequences.
+Sample 135 - 29309 reads in 10922 unique sequences.
+Sample 136 - 31975 reads in 12546 unique sequences.
+Sample 137 - 32045 reads in 12323 unique sequences.
+Sample 138 - 25485 reads in 11041 unique sequences.
+Sample 139 - 22715 reads in 9833 unique sequences.
+Sample 140 - 29423 reads in 12035 unique sequences.
+Sample 141 - 39797 reads in 12682 unique sequences.
+Sample 142 - 45152 reads in 15627 unique sequences.
+Sample 143 - 37034 reads in 11899 unique sequences.
+Sample 144 - 6216 reads in 3267 unique sequences.
+Sample 145 - 31081 reads in 13683 unique sequences.
+Sample 146 - 27074 reads in 14380 unique sequences.
+Sample 147 - 26853 reads in 13642 unique sequences.
+Sample 148 - 30406 reads in 16604 unique sequences.
+Sample 149 - 54411 reads in 12393 unique sequences.
+Sample 150 - 39829 reads in 10175 unique sequences.
+Sample 151 - 31476 reads in 8516 unique sequences.
+Sample 152 - 12641 reads in 6711 unique sequences.
+Sample 153 - 19201 reads in 9113 unique sequences.
+Sample 154 - 17965 reads in 8062 unique sequences.
+Sample 155 - 34740 reads in 15008 unique sequences.
+Sample 156 - 27350 reads in 11692 unique sequences.
+Sample 157 - 26976 reads in 10909 unique sequences.
+Sample 158 - 22855 reads in 11477 unique sequences.
+Sample 159 - 27872 reads in 13136 unique sequences.
+Sample 160 - 28541 reads in 12673 unique sequences.
+Sample 161 - 45079 reads in 13104 unique sequences.
+Sample 162 - 39042 reads in 13011 unique sequences.
+Sample 163 - 45042 reads in 13109 unique sequences.
+Sample 164 - 23343 reads in 13065 unique sequences.
+Sample 165 - 15774 reads in 8786 unique sequences.
+Sample 166 - 15090 reads in 8192 unique sequences.
+Sample 167 - 20353 reads in 8771 unique sequences.
+Sample 168 - 26367 reads in 11024 unique sequences.
+Sample 169 - 25693 reads in 10351 unique sequences.
+Sample 170 - 36032 reads in 16806 unique sequences.
+Sample 171 - 29567 reads in 13763 unique sequences.
+Sample 172 - 35979 reads in 15985 unique sequences.
+Sample 173 - 43326 reads in 11137 unique sequences.
+Sample 174 - 22668 reads in 9778 unique sequences.
+Sample 175 - 28293 reads in 12441 unique sequences.
+Sample 176 - 28289 reads in 12220 unique sequences.
+Sample 177 - 32418 reads in 18819 unique sequences.
+Sample 178 - 24411 reads in 13833 unique sequences.
+Sample 179 - 37119 reads in 16517 unique sequences.
+Sample 180 - 43800 reads in 13841 unique sequences.
+Sample 181 - 39017 reads in 10924 unique sequences.
+Sample 182 - 39647 reads in 12436 unique sequences.
+Sample 183 - 24987 reads in 11112 unique sequences.
+Sample 184 - 24072 reads in 10560 unique sequences.
+Sample 185 - 28274 reads in 11855 unique sequences.
+Sample 186 - 20938 reads in 7895 unique sequences.
+Sample 187 - 35450 reads in 11266 unique sequences.
+Sample 188 - 25441 reads in 10283 unique sequences.
+Sample 189 - 27364 reads in 12400 unique sequences.
+Sample 190 - 26100 reads in 10518 unique sequences.
+Sample 191 - 29429 reads in 12032 unique sequences.
+Sample 192 - 32189 reads in 11007 unique sequences.
+Sample 193 - 40313 reads in 13505 unique sequences.
+Sample 194 - 37533 reads in 12585 unique sequences.
+Sample 195 - 37293 reads in 20610 unique sequences.
+Sample 196 - 36614 reads in 19058 unique sequences.
+Sample 197 - 35241 reads in 17603 unique sequences.
+Sample 198 - 29077 reads in 12063 unique sequences.
+Sample 199 - 34473 reads in 14879 unique sequences.
+Sample 200 - 26265 reads in 11790 unique sequences.
+Sample 201 - 24416 reads in 13728 unique sequences.
+Sample 202 - 33111 reads in 16466 unique sequences.
+Sample 203 - 26863 reads in 16197 unique sequences.
+Sample 204 - 43106 reads in 13665 unique sequences.
+Sample 205 - 34502 reads in 10959 unique sequences.
+Sample 206 - 25315 reads in 8529 unique sequences.
+Sample 207 - 29730 reads in 11904 unique sequences.
+Sample 208 - 44941 reads in 14010 unique sequences.
+Sample 209 - 36577 reads in 11743 unique sequences.
+Sample 210 - 46525 reads in 14690 unique sequences.
+Sample 211 - 35010 reads in 14748 unique sequences.
+Sample 212 - 33799 reads in 14456 unique sequences.
+Sample 213 - 30145 reads in 12124 unique sequences.
+Sample 214 - 38165 reads in 14961 unique sequences.
+Sample 215 - 37540 reads in 15543 unique sequences.
+Sample 216 - 35661 reads in 14841 unique sequences.
+Sample 217 - 29164 reads in 11546 unique sequences.
+Sample 218 - 34467 reads in 14031 unique sequences.
+Sample 219 - 30555 reads in 12172 unique sequences.
+Sample 220 - 42175 reads in 12541 unique sequences.
+Sample 221 - 42743 reads in 12602 unique sequences.
+Sample 222 - 37141 reads in 10925 unique sequences.
+Sample 223 - 29134 reads in 12647 unique sequences.
+Sample 224 - 28815 reads in 12754 unique sequences.
+Sample 225 - 29278 reads in 12074 unique sequences.
+Sample 226 - 42527 reads in 12093 unique sequences.
+Sample 227 - 47641 reads in 13291 unique sequences.
+Sample 228 - 44347 reads in 11619 unique sequences.
+Sample 229 - 4196 reads in 2172 unique sequences.
+Sample 230 - 7454 reads in 3492 unique sequences.
+Sample 231 - 3596 reads in 2172 unique sequences.
+Sample 232 - 30368 reads in 11466 unique sequences.
+Sample 233 - 24556 reads in 8784 unique sequences.
+Sample 234 - 24571 reads in 9131 unique sequences.
+Sample 1 - 29419 reads in 10098 unique sequences.
+Sample 2 - 24952 reads in 11493 unique sequences.
+Sample 3 - 24034 reads in 11303 unique sequences.
+Sample 4 - 34347 reads in 15143 unique sequences.
+Sample 5 - 29328 reads in 13458 unique sequences.
+Sample 6 - 41474 reads in 15844 unique sequences.
+Sample 7 - 40444 reads in 13469 unique sequences.
+Sample 8 - 44333 reads in 14496 unique sequences.
+Sample 9 - 43111 reads in 18975 unique sequences.
+Sample 10 - 34551 reads in 16723 unique sequences.
+Sample 11 - 38098 reads in 16412 unique sequences.
+Sample 12 - 22585 reads in 10611 unique sequences.
+Sample 13 - 19040 reads in 9587 unique sequences.
+Sample 14 - 27901 reads in 11247 unique sequences.
+Sample 15 - 40030 reads in 12557 unique sequences.
+Sample 16 - 33712 reads in 12689 unique sequences.
+Sample 17 - 37404 reads in 16452 unique sequences.
+Sample 18 - 32176 reads in 11782 unique sequences.
+Sample 19 - 54406 reads in 17614 unique sequences.
+Sample 20 - 34971 reads in 13480 unique sequences.
+Sample 21 - 36151 reads in 18563 unique sequences.
+Sample 22 - 31741 reads in 14774 unique sequences.
+Sample 23 - 37142 reads in 19380 unique sequences.
+Sample 24 - 32051 reads in 14994 unique sequences.
+Sample 25 - 34669 reads in 15549 unique sequences.
+Sample 26 - 30588 reads in 15662 unique sequences.
+Sample 27 - 35306 reads in 15756 unique sequences.
+Sample 28 - 38474 reads in 14817 unique sequences.
+Sample 29 - 33587 reads in 14950 unique sequences.
+Sample 30 - 38897 reads in 11193 unique sequences.
+Sample 31 - 55202 reads in 12913 unique sequences.
+Sample 32 - 20945 reads in 8759 unique sequences.
+Sample 33 - 32737 reads in 11520 unique sequences.
+Sample 34 - 33638 reads in 11926 unique sequences.
+Sample 35 - 26735 reads in 8164 unique sequences.
+Sample 36 - 26423 reads in 8584 unique sequences.
+Sample 37 - 21246 reads in 8160 unique sequences.
+Sample 38 - 36981 reads in 14916 unique sequences.
+Sample 39 - 34529 reads in 14661 unique sequences.
+Sample 40 - 30793 reads in 12163 unique sequences.
+Sample 41 - 57705 reads in 12788 unique sequences.
+Sample 42 - 43189 reads in 11051 unique sequences.
+Sample 43 - 49852 reads in 12934 unique sequences.
+Sample 44 - 38399 reads in 14106 unique sequences.
+Sample 45 - 32990 reads in 12317 unique sequences.
+Sample 46 - 31549 reads in 12604 unique sequences.
+Sample 47 - 25348 reads in 8089 unique sequences.
+Sample 48 - 23477 reads in 9920 unique sequences.
+Sample 49 - 27408 reads in 9364 unique sequences.
+Sample 50 - 36296 reads in 15614 unique sequences.
+Sample 51 - 27600 reads in 13144 unique sequences.
+Sample 52 - 30248 reads in 13706 unique sequences.
+Sample 53 - 43037 reads in 11371 unique sequences.
+Sample 54 - 46109 reads in 11783 unique sequences.
+Sample 55 - 39497 reads in 9425 unique sequences.
+Sample 56 - 33326 reads in 12395 unique sequences.
+Sample 57 - 25276 reads in 10209 unique sequences.
+Sample 58 - 25796 reads in 10106 unique sequences.
+Sample 59 - 31254 reads in 12370 unique sequences.
+Sample 60 - 34055 reads in 16353 unique sequences.
+Sample 61 - 35146 reads in 16882 unique sequences.
+Sample 62 - 42920 reads in 19960 unique sequences.
+Sample 63 - 27921 reads in 10189 unique sequences.
+Sample 64 - 27967 reads in 12096 unique sequences.
+Sample 65 - 38716 reads in 13488 unique sequences.
+Sample 66 - 47134 reads in 14610 unique sequences.
+Sample 67 - 45876 reads in 13039 unique sequences.
+Sample 68 - 45108 reads in 13790 unique sequences.
+Sample 69 - 27861 reads in 9886 unique sequences.
+Sample 70 - 29679 reads in 10799 unique sequences.
+Sample 71 - 23168 reads in 9238 unique sequences.
+Sample 72 - 36552 reads in 16814 unique sequences.
+Sample 73 - 41774 reads in 16137 unique sequences.
+Sample 74 - 37437 reads in 15789 unique sequences.
+Sample 75 - 4925 reads in 2482 unique sequences.
+Sample 76 - 35422 reads in 14126 unique sequences.
+Sample 77 - 35899 reads in 13948 unique sequences.
+Sample 78 - 46133 reads in 14664 unique sequences.
+Sample 79 - 38866 reads in 13342 unique sequences.
+Sample 80 - 36238 reads in 10009 unique sequences.
+Sample 81 - 37321 reads in 13170 unique sequences.
+Sample 82 - 33521 reads in 13435 unique sequences.
+Sample 83 - 35423 reads in 12673 unique sequences.
+Sample 84 - 43923 reads in 14663 unique sequences.
+Sample 85 - 45732 reads in 14521 unique sequences.
+Sample 86 - 33066 reads in 12135 unique sequences.
+Sample 87 - 37044 reads in 14548 unique sequences.
+Sample 88 - 47876 reads in 15608 unique sequences.
+Sample 89 - 35805 reads in 14701 unique sequences.
+Sample 90 - 33004 reads in 12328 unique sequences.
+Sample 91 - 43947 reads in 16200 unique sequences.
+Sample 92 - 21389 reads in 10876 unique sequences.
+Sample 93 - 28177 reads in 11782 unique sequences.
+Sample 94 - 28135 reads in 13903 unique sequences.
+Sample 95 - 32299 reads in 13167 unique sequences.
+Sample 96 - 35101 reads in 13507 unique sequences.
+Sample 97 - 34572 reads in 14120 unique sequences.
+Sample 98 - 36217 reads in 12296 unique sequences.
+Sample 99 - 42831 reads in 13605 unique sequences.
+Sample 100 - 56657 reads in 19216 unique sequences.
+Sample 101 - 30553 reads in 12190 unique sequences.
+Sample 102 - 32963 reads in 13652 unique sequences.
+Sample 103 - 34425 reads in 12515 unique sequences.
+Sample 104 - 28700 reads in 11439 unique sequences.
+Sample 105 - 40150 reads in 17887 unique sequences.
+Sample 106 - 26437 reads in 14816 unique sequences.
+Sample 107 - 29668 reads in 13448 unique sequences.
+Sample 108 - 32262 reads in 13659 unique sequences.
+Sample 109 - 28648 reads in 11527 unique sequences.
+Sample 110 - 43848 reads in 13733 unique sequences.
+Sample 111 - 35032 reads in 11410 unique sequences.
+Sample 112 - 35632 reads in 11242 unique sequences.
+Sample 113 - 29615 reads in 12857 unique sequences.
+Sample 114 - 35317 reads in 14847 unique sequences.
+Sample 115 - 37393 reads in 16702 unique sequences.
+Sample 116 - 30961 reads in 11245 unique sequences.
+Sample 117 - 46192 reads in 14561 unique sequences.
+Sample 118 - 42882 reads in 12911 unique sequences.
+Sample 119 - 52290 reads in 15042 unique sequences.
+Sample 120 - 33444 reads in 16493 unique sequences.
+Sample 121 - 37133 reads in 17417 unique sequences.
+Sample 122 - 37703 reads in 18428 unique sequences.
+Sample 123 - 43153 reads in 20024 unique sequences.
+Sample 124 - 36280 reads in 16723 unique sequences.
+Sample 125 - 48690 reads in 12591 unique sequences.
+Sample 126 - 22348 reads in 8822 unique sequences.
+Sample 127 - 22057 reads in 9339 unique sequences.
+Sample 128 - 23127 reads in 9596 unique sequences.
+Sample 129 - 38588 reads in 11782 unique sequences.
+Sample 130 - 36787 reads in 11623 unique sequences.
+Sample 131 - 36510 reads in 11248 unique sequences.
+Sample 132 - 26963 reads in 12547 unique sequences.
+Sample 133 - 28532 reads in 12741 unique sequences.
+Sample 134 - 29784 reads in 12986 unique sequences.
+Sample 135 - 29309 reads in 12425 unique sequences.
+Sample 136 - 31975 reads in 13179 unique sequences.
+Sample 137 - 32045 reads in 13058 unique sequences.
+Sample 138 - 25485 reads in 9521 unique sequences.
+Sample 139 - 22715 reads in 8328 unique sequences.
+Sample 140 - 29423 reads in 10600 unique sequences.
+Sample 141 - 39797 reads in 11977 unique sequences.
+Sample 142 - 45152 reads in 13722 unique sequences.
+Sample 143 - 37034 reads in 13685 unique sequences.
+Sample 144 - 6216 reads in 3091 unique sequences.
+Sample 145 - 31081 reads in 13368 unique sequences.
+Sample 146 - 27074 reads in 10720 unique sequences.
+Sample 147 - 26853 reads in 11523 unique sequences.
+Sample 148 - 30406 reads in 11218 unique sequences.
+Sample 149 - 54411 reads in 12146 unique sequences.
+Sample 150 - 39829 reads in 8254 unique sequences.
+Sample 151 - 31476 reads in 8318 unique sequences.
+Sample 152 - 12641 reads in 5694 unique sequences.
+Sample 153 - 19201 reads in 8499 unique sequences.
+Sample 154 - 17965 reads in 6691 unique sequences.
+Sample 155 - 34740 reads in 16168 unique sequences.
+Sample 156 - 27350 reads in 11801 unique sequences.
+Sample 157 - 26976 reads in 12396 unique sequences.
+Sample 158 - 22855 reads in 10113 unique sequences.
+Sample 159 - 27872 reads in 12007 unique sequences.
+Sample 160 - 28541 reads in 12258 unique sequences.
+Sample 161 - 45079 reads in 12290 unique sequences.
+Sample 162 - 39042 reads in 12391 unique sequences.
+Sample 163 - 45042 reads in 11690 unique sequences.
+Sample 164 - 23343 reads in 9120 unique sequences.
+Sample 165 - 15774 reads in 7464 unique sequences.
+Sample 166 - 15090 reads in 6204 unique sequences.
+Sample 167 - 20353 reads in 9067 unique sequences.
+Sample 168 - 26367 reads in 10667 unique sequences.
+Sample 169 - 25693 reads in 10704 unique sequences.
+Sample 170 - 36032 reads in 15776 unique sequences.
+Sample 171 - 29567 reads in 12137 unique sequences.
+Sample 172 - 35979 reads in 14600 unique sequences.
+Sample 173 - 43326 reads in 10739 unique sequences.
+Sample 174 - 22668 reads in 8959 unique sequences.
+Sample 175 - 28293 reads in 11403 unique sequences.
+Sample 176 - 28289 reads in 11720 unique sequences.
+Sample 177 - 32418 reads in 13828 unique sequences.
+Sample 178 - 24411 reads in 11579 unique sequences.
+Sample 179 - 37119 reads in 13791 unique sequences.
+Sample 180 - 43800 reads in 11422 unique sequences.
+Sample 181 - 39017 reads in 11030 unique sequences.
+Sample 182 - 39647 reads in 11205 unique sequences.
+Sample 183 - 24987 reads in 10398 unique sequences.
+Sample 184 - 24072 reads in 10660 unique sequences.
+Sample 185 - 28274 reads in 11663 unique sequences.
+Sample 186 - 20938 reads in 11846 unique sequences.
+Sample 187 - 35450 reads in 13312 unique sequences.
+Sample 188 - 25441 reads in 12757 unique sequences.
+Sample 189 - 27364 reads in 9464 unique sequences.
+Sample 190 - 26100 reads in 9215 unique sequences.
+Sample 191 - 29429 reads in 11099 unique sequences.
+Sample 192 - 32189 reads in 12685 unique sequences.
+Sample 193 - 40313 reads in 13748 unique sequences.
+Sample 194 - 37533 reads in 13629 unique sequences.
+Sample 195 - 37293 reads in 16664 unique sequences.
+Sample 196 - 36614 reads in 14904 unique sequences.
+Sample 197 - 35241 reads in 13199 unique sequences.
+Sample 198 - 29077 reads in 12319 unique sequences.
+Sample 199 - 34473 reads in 16073 unique sequences.
+Sample 200 - 26265 reads in 12127 unique sequences.
+Sample 201 - 24416 reads in 10450 unique sequences.
+Sample 202 - 33111 reads in 12172 unique sequences.
+Sample 203 - 26863 reads in 10219 unique sequences.
+Sample 204 - 43106 reads in 14493 unique sequences.
+Sample 205 - 34502 reads in 12317 unique sequences.
+Sample 206 - 25315 reads in 9389 unique sequences.
+Sample 207 - 29730 reads in 12365 unique sequences.
+Sample 208 - 44941 reads in 13060 unique sequences.
+Sample 209 - 36577 reads in 12207 unique sequences.
+Sample 210 - 46525 reads in 13270 unique sequences.
+Sample 211 - 35010 reads in 12809 unique sequences.
+Sample 212 - 33799 reads in 13170 unique sequences.
+Sample 213 - 30145 reads in 12485 unique sequences.
+Sample 214 - 38165 reads in 17662 unique sequences.
+Sample 215 - 37540 reads in 17566 unique sequences.
+Sample 216 - 35661 reads in 17333 unique sequences.
+Sample 217 - 29164 reads in 11770 unique sequences.
+Sample 218 - 34467 reads in 13564 unique sequences.
+Sample 219 - 30555 reads in 12342 unique sequences.
+Sample 220 - 42175 reads in 11337 unique sequences.
+Sample 221 - 42743 reads in 11435 unique sequences.
+Sample 222 - 37141 reads in 10520 unique sequences.
+Sample 223 - 29134 reads in 12306 unique sequences.
+Sample 224 - 28815 reads in 12416 unique sequences.
+Sample 225 - 29278 reads in 11106 unique sequences.
+Sample 226 - 42527 reads in 13428 unique sequences.
+Sample 227 - 47641 reads in 14959 unique sequences.
+Sample 228 - 44347 reads in 12510 unique sequences.
+Sample 229 - 4196 reads in 2035 unique sequences.
+Sample 230 - 7454 reads in 3178 unique sequences.
+Sample 231 - 3596 reads in 1848 unique sequences.
+Sample 232 - 30368 reads in 9489 unique sequences.
+Sample 233 - 24556 reads in 9063 unique sequences.
+Sample 234 - 24571 reads in 9814 unique sequences.
+27297 paired-reads (in 100 unique pairings) successfully merged out of 29008 (in 197 pairings) input.
+21545 paired-reads (in 152 unique pairings) successfully merged out of 24239 (in 364 pairings) input.
+19968 paired-reads (in 133 unique pairings) successfully merged out of 22690 (in 233 pairings) input.
+29800 paired-reads (in 164 unique pairings) successfully merged out of 33385 (in 306 pairings) input.
+24354 paired-reads (in 141 unique pairings) successfully merged out of 28628 (in 281 pairings) input.
+37978 paired-reads (in 154 unique pairings) successfully merged out of 41069 (in 390 pairings) input.
+37323 paired-reads (in 111 unique pairings) successfully merged out of 39827 (in 269 pairings) input.
+40818 paired-reads (in 203 unique pairings) successfully merged out of 44046 (in 503 pairings) input.
+37570 paired-reads (in 148 unique pairings) successfully merged out of 41760 (in 336 pairings) input.
+29981 paired-reads (in 122 unique pairings) successfully merged out of 33607 (in 291 pairings) input.
+33736 paired-reads (in 123 unique pairings) successfully merged out of 37264 (in 262 pairings) input.
+20299 paired-reads (in 139 unique pairings) successfully merged out of 21772 (in 382 pairings) input.
+17302 paired-reads (in 99 unique pairings) successfully merged out of 18618 (in 255 pairings) input.
+25756 paired-reads (in 142 unique pairings) successfully merged out of 27377 (in 378 pairings) input.
+30608 paired-reads (in 141 unique pairings) successfully merged out of 38956 (in 244 pairings) input.
+27351 paired-reads (in 147 unique pairings) successfully merged out of 32659 (in 279 pairings) input.
+31346 paired-reads (in 210 unique pairings) successfully merged out of 35880 (in 445 pairings) input.
+29430 paired-reads (in 121 unique pairings) successfully merged out of 31721 (in 293 pairings) input.
+50006 paired-reads (in 245 unique pairings) successfully merged out of 53768 (in 544 pairings) input.
+31593 paired-reads (in 174 unique pairings) successfully merged out of 34604 (in 390 pairings) input.
+32287 paired-reads (in 128 unique pairings) successfully merged out of 35113 (in 293 pairings) input.
+28472 paired-reads (in 158 unique pairings) successfully merged out of 30728 (in 322 pairings) input.
+33294 paired-reads (in 161 unique pairings) successfully merged out of 35838 (in 366 pairings) input.
+28680 paired-reads (in 150 unique pairings) successfully merged out of 31432 (in 427 pairings) input.
+31469 paired-reads (in 179 unique pairings) successfully merged out of 34026 (in 480 pairings) input.
+27538 paired-reads (in 131 unique pairings) successfully merged out of 29754 (in 381 pairings) input.
+30052 paired-reads (in 215 unique pairings) successfully merged out of 34160 (in 477 pairings) input.
+31868 paired-reads (in 155 unique pairings) successfully merged out of 37175 (in 386 pairings) input.
+26755 paired-reads (in 219 unique pairings) successfully merged out of 32088 (in 458 pairings) input.
+35479 paired-reads (in 126 unique pairings) successfully merged out of 38682 (in 415 pairings) input.
+51365 paired-reads (in 71 unique pairings) successfully merged out of 54940 (in 203 pairings) input.
+19112 paired-reads (in 97 unique pairings) successfully merged out of 20391 (in 165 pairings) input.
+27988 paired-reads (in 138 unique pairings) successfully merged out of 31583 (in 247 pairings) input.
+30213 paired-reads (in 118 unique pairings) successfully merged out of 32638 (in 209 pairings) input.
+25413 paired-reads (in 69 unique pairings) successfully merged out of 26416 (in 118 pairings) input.
+24088 paired-reads (in 66 unique pairings) successfully merged out of 25945 (in 178 pairings) input.
+19472 paired-reads (in 51 unique pairings) successfully merged out of 20761 (in 112 pairings) input.
+29768 paired-reads (in 168 unique pairings) successfully merged out of 35628 (in 296 pairings) input.
+27440 paired-reads (in 155 unique pairings) successfully merged out of 33557 (in 317 pairings) input.
+26272 paired-reads (in 143 unique pairings) successfully merged out of 30117 (in 274 pairings) input.
+52896 paired-reads (in 101 unique pairings) successfully merged out of 57213 (in 331 pairings) input.
+39768 paired-reads (in 108 unique pairings) successfully merged out of 42695 (in 268 pairings) input.
+45688 paired-reads (in 111 unique pairings) successfully merged out of 49256 (in 335 pairings) input.
+35578 paired-reads (in 149 unique pairings) successfully merged out of 37654 (in 268 pairings) input.
+30396 paired-reads (in 126 unique pairings) successfully merged out of 32199 (in 224 pairings) input.
+29769 paired-reads (in 121 unique pairings) successfully merged out of 30638 (in 206 pairings) input.
+23353 paired-reads (in 75 unique pairings) successfully merged out of 24974 (in 169 pairings) input.
+20838 paired-reads (in 58 unique pairings) successfully merged out of 23094 (in 131 pairings) input.
+24380 paired-reads (in 82 unique pairings) successfully merged out of 27020 (in 239 pairings) input.
+28086 paired-reads (in 193 unique pairings) successfully merged out of 35061 (in 390 pairings) input.
+21782 paired-reads (in 177 unique pairings) successfully merged out of 26446 (in 356 pairings) input.
+22559 paired-reads (in 193 unique pairings) successfully merged out of 28663 (in 336 pairings) input.
+39064 paired-reads (in 158 unique pairings) successfully merged out of 42666 (in 472 pairings) input.
+42192 paired-reads (in 175 unique pairings) successfully merged out of 45819 (in 475 pairings) input.
+36036 paired-reads (in 107 unique pairings) successfully merged out of 39138 (in 329 pairings) input.
+29632 paired-reads (in 169 unique pairings) successfully merged out of 32489 (in 293 pairings) input.
+21914 paired-reads (in 128 unique pairings) successfully merged out of 24398 (in 231 pairings) input.
+22218 paired-reads (in 135 unique pairings) successfully merged out of 25026 (in 257 pairings) input.
+27525 paired-reads (in 156 unique pairings) successfully merged out of 30043 (in 306 pairings) input.
+26199 paired-reads (in 137 unique pairings) successfully merged out of 33396 (in 490 pairings) input.
+28765 paired-reads (in 100 unique pairings) successfully merged out of 34560 (in 345 pairings) input.
+32901 paired-reads (in 246 unique pairings) successfully merged out of 42422 (in 771 pairings) input.
+26542 paired-reads (in 118 unique pairings) successfully merged out of 27416 (in 210 pairings) input.
+22759 paired-reads (in 141 unique pairings) successfully merged out of 26714 (in 242 pairings) input.
+31989 paired-reads (in 140 unique pairings) successfully merged out of 37713 (in 252 pairings) input.
+43156 paired-reads (in 110 unique pairings) successfully merged out of 46601 (in 297 pairings) input.
+41951 paired-reads (in 94 unique pairings) successfully merged out of 45315 (in 261 pairings) input.
+40259 paired-reads (in 99 unique pairings) successfully merged out of 44758 (in 262 pairings) input.
+26759 paired-reads (in 96 unique pairings) successfully merged out of 27407 (in 168 pairings) input.
+27165 paired-reads (in 121 unique pairings) successfully merged out of 28966 (in 197 pairings) input.
+20764 paired-reads (in 100 unique pairings) successfully merged out of 22501 (in 178 pairings) input.
+31424 paired-reads (in 253 unique pairings) successfully merged out of 36116 (in 769 pairings) input.
+35360 paired-reads (in 193 unique pairings) successfully merged out of 41282 (in 617 pairings) input.
+31666 paired-reads (in 202 unique pairings) successfully merged out of 37047 (in 655 pairings) input.
+4072 paired-reads (in 42 unique pairings) successfully merged out of 4800 (in 61 pairings) input.
+32686 paired-reads (in 151 unique pairings) successfully merged out of 34388 (in 317 pairings) input.
+33131 paired-reads (in 156 unique pairings) successfully merged out of 34554 (in 330 pairings) input.
+42878 paired-reads (in 102 unique pairings) successfully merged out of 45875 (in 259 pairings) input.
+35575 paired-reads (in 74 unique pairings) successfully merged out of 38629 (in 164 pairings) input.
+33409 paired-reads (in 79 unique pairings) successfully merged out of 36070 (in 190 pairings) input.
+33674 paired-reads (in 154 unique pairings) successfully merged out of 36238 (in 285 pairings) input.
+27429 paired-reads (in 168 unique pairings) successfully merged out of 32267 (in 338 pairings) input.
+32594 paired-reads (in 126 unique pairings) successfully merged out of 34544 (in 237 pairings) input.
+37293 paired-reads (in 236 unique pairings) successfully merged out of 43221 (in 742 pairings) input.
+40341 paired-reads (in 203 unique pairings) successfully merged out of 44997 (in 636 pairings) input.
+29181 paired-reads (in 139 unique pairings) successfully merged out of 32680 (in 460 pairings) input.
+33748 paired-reads (in 164 unique pairings) successfully merged out of 35943 (in 362 pairings) input.
+44765 paired-reads (in 187 unique pairings) successfully merged out of 47688 (in 485 pairings) input.
+33119 paired-reads (in 102 unique pairings) successfully merged out of 35229 (in 191 pairings) input.
+31339 paired-reads (in 105 unique pairings) successfully merged out of 32417 (in 198 pairings) input.
+40608 paired-reads (in 92 unique pairings) successfully merged out of 43113 (in 163 pairings) input.
+18062 paired-reads (in 86 unique pairings) successfully merged out of 21101 (in 271 pairings) input.
+23256 paired-reads (in 129 unique pairings) successfully merged out of 27368 (in 327 pairings) input.
+23466 paired-reads (in 129 unique pairings) successfully merged out of 27783 (in 405 pairings) input.
+24178 paired-reads (in 88 unique pairings) successfully merged out of 31739 (in 190 pairings) input.
+27434 paired-reads (in 96 unique pairings) successfully merged out of 34174 (in 166 pairings) input.
+25288 paired-reads (in 105 unique pairings) successfully merged out of 33979 (in 220 pairings) input.
+33535 paired-reads (in 160 unique pairings) successfully merged out of 36021 (in 356 pairings) input.
+39281 paired-reads (in 153 unique pairings) successfully merged out of 42340 (in 369 pairings) input.
+53067 paired-reads (in 217 unique pairings) successfully merged out of 56244 (in 445 pairings) input.
+26819 paired-reads (in 75 unique pairings) successfully merged out of 29936 (in 168 pairings) input.
+29142 paired-reads (in 106 unique pairings) successfully merged out of 32487 (in 219 pairings) input.
+29256 paired-reads (in 70 unique pairings) successfully merged out of 33811 (in 170 pairings) input.
+25978 paired-reads (in 94 unique pairings) successfully merged out of 28027 (in 175 pairings) input.
+35184 paired-reads (in 203 unique pairings) successfully merged out of 38959 (in 548 pairings) input.
+21557 paired-reads (in 141 unique pairings) successfully merged out of 25447 (in 479 pairings) input.
+22549 paired-reads (in 129 unique pairings) successfully merged out of 29061 (in 211 pairings) input.
+24551 paired-reads (in 105 unique pairings) successfully merged out of 31632 (in 177 pairings) input.
+17502 paired-reads (in 101 unique pairings) successfully merged out of 27943 (in 189 pairings) input.
+40496 paired-reads (in 168 unique pairings) successfully merged out of 43472 (in 409 pairings) input.
+32097 paired-reads (in 124 unique pairings) successfully merged out of 34843 (in 343 pairings) input.
+32658 paired-reads (in 141 unique pairings) successfully merged out of 35389 (in 373 pairings) input.
+25446 paired-reads (in 81 unique pairings) successfully merged out of 28181 (in 189 pairings) input.
+29515 paired-reads (in 77 unique pairings) successfully merged out of 34161 (in 167 pairings) input.
+32326 paired-reads (in 79 unique pairings) successfully merged out of 35476 (in 170 pairings) input.
+29005 paired-reads (in 125 unique pairings) successfully merged out of 30409 (in 263 pairings) input.
+41902 paired-reads (in 214 unique pairings) successfully merged out of 45896 (in 547 pairings) input.
+38738 paired-reads (in 247 unique pairings) successfully merged out of 42511 (in 586 pairings) input.
+47800 paired-reads (in 232 unique pairings) successfully merged out of 51739 (in 579 pairings) input.
+29361 paired-reads (in 176 unique pairings) successfully merged out of 32171 (in 415 pairings) input.
+32848 paired-reads (in 167 unique pairings) successfully merged out of 35953 (in 351 pairings) input.
+33153 paired-reads (in 169 unique pairings) successfully merged out of 36276 (in 387 pairings) input.
+34931 paired-reads (in 195 unique pairings) successfully merged out of 42520 (in 732 pairings) input.
+28330 paired-reads (in 196 unique pairings) successfully merged out of 35452 (in 686 pairings) input.
+43086 paired-reads (in 383 unique pairings) successfully merged out of 48295 (in 1030 pairings) input.
+18186 paired-reads (in 91 unique pairings) successfully merged out of 21892 (in 174 pairings) input.
+15062 paired-reads (in 117 unique pairings) successfully merged out of 20805 (in 202 pairings) input.
+21647 paired-reads (in 135 unique pairings) successfully merged out of 22466 (in 208 pairings) input.
+32588 paired-reads (in 105 unique pairings) successfully merged out of 38231 (in 246 pairings) input.
+31655 paired-reads (in 81 unique pairings) successfully merged out of 36617 (in 212 pairings) input.
+31311 paired-reads (in 76 unique pairings) successfully merged out of 36328 (in 193 pairings) input.
+21525 paired-reads (in 173 unique pairings) successfully merged out of 25866 (in 337 pairings) input.
+23662 paired-reads (in 167 unique pairings) successfully merged out of 27783 (in 310 pairings) input.
+25454 paired-reads (in 163 unique pairings) successfully merged out of 29027 (in 318 pairings) input.
+23616 paired-reads (in 41 unique pairings) successfully merged out of 28965 (in 117 pairings) input.
+26343 paired-reads (in 48 unique pairings) successfully merged out of 31475 (in 183 pairings) input.
+27235 paired-reads (in 62 unique pairings) successfully merged out of 31813 (in 203 pairings) input.
+24052 paired-reads (in 108 unique pairings) successfully merged out of 24914 (in 164 pairings) input.
+20580 paired-reads (in 93 unique pairings) successfully merged out of 21935 (in 147 pairings) input.
+27104 paired-reads (in 117 unique pairings) successfully merged out of 28674 (in 236 pairings) input.
+35570 paired-reads (in 86 unique pairings) successfully merged out of 39525 (in 229 pairings) input.
+40546 paired-reads (in 90 unique pairings) successfully merged out of 44806 (in 305 pairings) input.
+33090 paired-reads (in 98 unique pairings) successfully merged out of 36651 (in 235 pairings) input.
+5432 paired-reads (in 57 unique pairings) successfully merged out of 5999 (in 89 pairings) input.
+27675 paired-reads (in 146 unique pairings) successfully merged out of 29758 (in 296 pairings) input.
+18773 paired-reads (in 101 unique pairings) successfully merged out of 26384 (in 160 pairings) input.
+17106 paired-reads (in 94 unique pairings) successfully merged out of 26024 (in 155 pairings) input.
+20767 paired-reads (in 104 unique pairings) successfully merged out of 29913 (in 171 pairings) input.
+51140 paired-reads (in 79 unique pairings) successfully merged out of 54187 (in 186 pairings) input.
+36935 paired-reads (in 56 unique pairings) successfully merged out of 39010 (in 129 pairings) input.
+29172 paired-reads (in 62 unique pairings) successfully merged out of 31213 (in 154 pairings) input.
+11135 paired-reads (in 66 unique pairings) successfully merged out of 12480 (in 114 pairings) input.
+16704 paired-reads (in 97 unique pairings) successfully merged out of 18649 (in 156 pairings) input.
+16924 paired-reads (in 59 unique pairings) successfully merged out of 17446 (in 90 pairings) input.
+29639 paired-reads (in 141 unique pairings) successfully merged out of 34033 (in 442 pairings) input.
+24261 paired-reads (in 100 unique pairings) successfully merged out of 27025 (in 325 pairings) input.
+22819 paired-reads (in 107 unique pairings) successfully merged out of 26630 (in 344 pairings) input.
+18311 paired-reads (in 101 unique pairings) successfully merged out of 22424 (in 172 pairings) input.
+23800 paired-reads (in 117 unique pairings) successfully merged out of 27018 (in 188 pairings) input.
+24695 paired-reads (in 115 unique pairings) successfully merged out of 28112 (in 193 pairings) input.
+40629 paired-reads (in 116 unique pairings) successfully merged out of 44846 (in 509 pairings) input.
+36524 paired-reads (in 72 unique pairings) successfully merged out of 38897 (in 193 pairings) input.
+42831 paired-reads (in 80 unique pairings) successfully merged out of 44879 (in 194 pairings) input.
+21879 paired-reads (in 105 unique pairings) successfully merged out of 22528 (in 166 pairings) input.
+13813 paired-reads (in 119 unique pairings) successfully merged out of 15053 (in 179 pairings) input.
+13521 paired-reads (in 58 unique pairings) successfully merged out of 14347 (in 111 pairings) input.
+18765 paired-reads (in 77 unique pairings) successfully merged out of 19988 (in 260 pairings) input.
+24352 paired-reads (in 89 unique pairings) successfully merged out of 25890 (in 198 pairings) input.
+23236 paired-reads (in 87 unique pairings) successfully merged out of 25219 (in 253 pairings) input.
+30585 paired-reads (in 171 unique pairings) successfully merged out of 35359 (in 367 pairings) input.
+25517 paired-reads (in 156 unique pairings) successfully merged out of 28863 (in 331 pairings) input.
+32248 paired-reads (in 162 unique pairings) successfully merged out of 34797 (in 365 pairings) input.
+38772 paired-reads (in 371 unique pairings) successfully merged out of 42835 (in 996 pairings) input.
+19658 paired-reads (in 81 unique pairings) successfully merged out of 22078 (in 243 pairings) input.
+25872 paired-reads (in 103 unique pairings) successfully merged out of 27686 (in 225 pairings) input.
+25246 paired-reads (in 108 unique pairings) successfully merged out of 27726 (in 265 pairings) input.
+27381 paired-reads (in 189 unique pairings) successfully merged out of 31262 (in 383 pairings) input.
+20147 paired-reads (in 202 unique pairings) successfully merged out of 23192 (in 393 pairings) input.
+33447 paired-reads (in 181 unique pairings) successfully merged out of 36029 (in 365 pairings) input.
+40059 paired-reads (in 183 unique pairings) successfully merged out of 43326 (in 512 pairings) input.
+35655 paired-reads (in 97 unique pairings) successfully merged out of 38712 (in 300 pairings) input.
+36483 paired-reads (in 123 unique pairings) successfully merged out of 39472 (in 348 pairings) input.
+20818 paired-reads (in 210 unique pairings) successfully merged out of 23693 (in 365 pairings) input.
+19041 paired-reads (in 196 unique pairings) successfully merged out of 22687 (in 343 pairings) input.
+22159 paired-reads (in 237 unique pairings) successfully merged out of 27015 (in 427 pairings) input.
+17706 paired-reads (in 53 unique pairings) successfully merged out of 20672 (in 183 pairings) input.
+31140 paired-reads (in 66 unique pairings) successfully merged out of 34931 (in 203 pairings) input.
+19914 paired-reads (in 104 unique pairings) successfully merged out of 25048 (in 330 pairings) input.
+17457 paired-reads (in 59 unique pairings) successfully merged out of 26732 (in 116 pairings) input.
+20448 paired-reads (in 56 unique pairings) successfully merged out of 25452 (in 99 pairings) input.
+23589 paired-reads (in 66 unique pairings) successfully merged out of 28916 (in 111 pairings) input.
+28749 paired-reads (in 127 unique pairings) successfully merged out of 32002 (in 316 pairings) input.
+36167 paired-reads (in 152 unique pairings) successfully merged out of 39977 (in 399 pairings) input.
+34268 paired-reads (in 128 unique pairings) successfully merged out of 37130 (in 352 pairings) input.
+33580 paired-reads (in 118 unique pairings) successfully merged out of 36606 (in 244 pairings) input.
+29087 paired-reads (in 88 unique pairings) successfully merged out of 36077 (in 197 pairings) input.
+32312 paired-reads (in 101 unique pairings) successfully merged out of 34499 (in 197 pairings) input.
+23670 paired-reads (in 113 unique pairings) successfully merged out of 28075 (in 336 pairings) input.
+28510 paired-reads (in 128 unique pairings) successfully merged out of 33579 (in 370 pairings) input.
+22450 paired-reads (in 107 unique pairings) successfully merged out of 25783 (in 306 pairings) input.
+13020 paired-reads (in 60 unique pairings) successfully merged out of 23952 (in 124 pairings) input.
+23083 paired-reads (in 111 unique pairings) successfully merged out of 31598 (in 189 pairings) input.
+12771 paired-reads (in 74 unique pairings) successfully merged out of 26262 (in 146 pairings) input.
+39170 paired-reads (in 156 unique pairings) successfully merged out of 42861 (in 451 pairings) input.
+31898 paired-reads (in 147 unique pairings) successfully merged out of 34204 (in 348 pairings) input.
+23858 paired-reads (in 150 unique pairings) successfully merged out of 24634 (in 229 pairings) input.
+27729 paired-reads (in 137 unique pairings) successfully merged out of 28910 (in 267 pairings) input.
+40854 paired-reads (in 116 unique pairings) successfully merged out of 44559 (in 257 pairings) input.
+32933 paired-reads (in 75 unique pairings) successfully merged out of 36186 (in 177 pairings) input.
+43776 paired-reads (in 103 unique pairings) successfully merged out of 46193 (in 239 pairings) input.
+29495 paired-reads (in 186 unique pairings) successfully merged out of 33893 (in 342 pairings) input.
+29023 paired-reads (in 208 unique pairings) successfully merged out of 32585 (in 373 pairings) input.
+27226 paired-reads (in 178 unique pairings) successfully merged out of 29165 (in 294 pairings) input.
+34051 paired-reads (in 109 unique pairings) successfully merged out of 37644 (in 417 pairings) input.
+31034 paired-reads (in 228 unique pairings) successfully merged out of 36852 (in 710 pairings) input.
+30160 paired-reads (in 239 unique pairings) successfully merged out of 34942 (in 790 pairings) input.
+26359 paired-reads (in 183 unique pairings) successfully merged out of 27991 (in 313 pairings) input.
+30725 paired-reads (in 184 unique pairings) successfully merged out of 32969 (in 379 pairings) input.
+27432 paired-reads (in 217 unique pairings) successfully merged out of 29237 (in 361 pairings) input.
+39026 paired-reads (in 85 unique pairings) successfully merged out of 41548 (in 200 pairings) input.
+40521 paired-reads (in 98 unique pairings) successfully merged out of 42462 (in 202 pairings) input.
+35196 paired-reads (in 101 unique pairings) successfully merged out of 36856 (in 187 pairings) input.
+26133 paired-reads (in 186 unique pairings) successfully merged out of 28190 (in 305 pairings) input.
+24906 paired-reads (in 185 unique pairings) successfully merged out of 27772 (in 306 pairings) input.
+25705 paired-reads (in 165 unique pairings) successfully merged out of 28323 (in 286 pairings) input.
+38824 paired-reads (in 162 unique pairings) successfully merged out of 42150 (in 507 pairings) input.
+43409 paired-reads (in 134 unique pairings) successfully merged out of 47349 (in 487 pairings) input.
+40976 paired-reads (in 100 unique pairings) successfully merged out of 44093 (in 280 pairings) input.
+3788 paired-reads (in 31 unique pairings) successfully merged out of 4050 (in 55 pairings) input.
+6307 paired-reads (in 34 unique pairings) successfully merged out of 7029 (in 51 pairings) input.
+3079 paired-reads (in 27 unique pairings) successfully merged out of 3178 (in 36 pairings) input.
+26807 paired-reads (in 73 unique pairings) successfully merged out of 30024 (in 175 pairings) input.
+21963 paired-reads (in 48 unique pairings) successfully merged out of 23837 (in 125 pairings) input.
+21554 paired-reads (in 83 unique pairings) successfully merged out of 24377 (in 294 pairings) input.
+Identified 3570 bimeras out of 9091 input sequences.
+
+DONE: 234 samples, 5521 ASVs (post-chimera)
+ASV length range: 146-450 bp

@@ -1,0 +1,30 @@
+# manuscript source: added at submission
+manuscript/
+
+# reference and variant libraries: cited, not redistributed
+unite*.fasta
+sh_general_release_dynamic*
+SILVA_*
+GlobalFungi_ITS_variants/
+FunGlobe_ITS_variants.fa
+gf_its2_*.fa
+gf_unknown_trim.fa
+
+# search output: regenerable by code/gf_recurrence.sh
+gf_unknown_vs_all.hits
+*_vs_frey_*.hits
+gf_recur_cov.hits
+
+# DADA2 intermediates
+dada2_out/
+*.rds
+frey_reads/
+trimmed/
+out_lgo*/
+out_lso*/
+out_nov*/
+
+# scratch
+*.bak
+.DS_Store
+__MACOSX/

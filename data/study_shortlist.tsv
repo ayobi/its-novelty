@@ -1,0 +1,83 @@
+paper_ID	year	n_samples	top_primer	platform	continent	habitat	doi	title
+Lee_2020_OO	2020	112	5.8S_FUN/ITS4_FUN	Illumina	North America	soil	10.1094/PBIOMES-07-20-0056-FI	Plant and soil drivers of whole-plant microbiomes: variation in switchgrass fung
+Whitman_2019_8E28	2019	214	5.8S_Fun/ITS4_Fun	Illumina	North America	soil	10.1016/j.soilbio.2019.107571	Soil bacterial and fungal response to wildfires in the Canadian boreal forest ac
+Park_2021_RM	2021	75	5.8S_Fun/ITS4_Fun	Illumina	Asia	soil	10.1111/1758-2229.12976	Different patterns of belowground fungal diversity along altitudinal gradients w
+Argiroff_2021_SY	2021	72	5.8S_Fun/ITS4_Fun	Illumina	North America	soil	10.1111/ele.13923	Decay by ectomycorrhizal fungi couples soil organic matter to nitrogen availabil
+Bickford_2020_LV	2020	69	5.8S_Fun/ITS4_Fun	Illumina	North America	soil	10.1002/ece3.6811	Differences in rhizosphere microbial communities between native and non-nativePh
+Ladwig_2021_aa6b	2021	56	5.8S_Fun/ITS4_Fun	Illumina	North America	soil	10.1016/j.funeco.2021.101096	Soil fungal composition changes with shrub encroachment in the northern Chihuahu
+Chen_2021_NC	2021	177	ITS1F/ITS2	Illumina	Australia	soil	10.1016/j.soilbio.2020.108073	Deterministic selection dominates microbial community assembly in termite mounds
+Gong_2022_UM	2022	52	ITS1F/ITS4 then ITS3/ITS4	Illumina	Asia	soil	10.1128/spectrum.01950-21	Elevation Matters More than Season in Shaping the Heterogeneity of Soil and Root
+Veach_2015_7FDE	2015	91	ITS1F/ITS4 then fITS7/ITS4	Illumina	North America	soil	10.1093/femsec/fiv109	Woody plant encroachment, and its removal, impact bacterial and fungal communiti
+Gschwend_2021_9214b	2021	450	ITS3/ITS4	Illumina	Europe	soil	10.1093/femsec/fiab165	Site and land-use associations of soil bacteria and fungi define core and indica
+Yang_2017_2AFC	2017	180	ITS3/ITS4	Illumina	Asia	soil	10.1111/nph.14606	Soil fungal diversity in natural grasslands of the Tibetan Plateau: associations
+MerinoMartin_2022_b647	2022	140	ITS3/ITS4	Illumina	Europe	topsoil	10.1111/oik.09034	Habitat partitioning of soil microbial communities along an elevation gradient: 
+Yang_2020_addH	2020	132	ITS3/ITS4	Illumina	Asia	soil	10.1111/nph.16531	Distinct fungal successional trajectories following wildfire between soil horizo
+Frey_2021_QQ	2021	117	ITS3/ITS4	Illumina	Europe	soil	10.3389/fmicb.2021.674160	Deep Soil Layers of Drought-Exposed Forests Harbor Poorly Known Bacterial and Fu
+Zhang_2018_F81F	2018	106	ITS3/ITS4	Illumina	Asia	soil	10.1016/j.scitotenv.2018.07.016	Distinct large-scale biogeographic patterns of fungal communities in bulk soil a
+Zhang_2018_C983	2018	106	ITS3/ITS4	Illumina	Asia	topsoil	10.1016/j.soilbio.2017.12.011	Co-occurrence patterns of soybean rhizosphere microbiome at a continental scale.
+Liu_2021_HQ	2021	95	ITS3/ITS4	Illumina	Asia	soil	10.1016/j.soilbio.2021.108144	Changes in assembly processes of soil microbial communities during secondary suc
+Fan_2018_50C0	2018	90	ITS3/ITS4	Illumina	Asia	rhizosphere soil	10.1016/j.soilbio.2018.07.022	Wheat rhizosphere harbors a less complex and more stable microbial co-occurrence
+Zhang_2020_HZ	2020	90	ITS3/ITS4	Illumina	Asia	soil	10.1128/msystems.00783-19	Space is more important than season when shaping soil microbial communities at a
+Gschwend_2020_7501	2020	84	ITS3/ITS4	Illumina	Europe	soil	10.1016/j.apsoil.2020.103623	Periodic waterlogging consistently shapes agricultural soil microbiomes by promo
+Park_2020_609a	2020	72	ITS3/ITS4	Illumina	Asia	rhizosphere soil	10.3389/fmicb.2020.572706	Influence of Season and Soil Properties on Fungal Communities of Neighboring Cli
+Lin_2020_KX	2020	70	ITS3/ITS4	Illumina	Asia	soil	10.3389/fmicb.2020.01257	The Effect of Plant Geographical Location and Developmental Stage on Root-Associ
+Monkai_2022_ABM	2022	61	ITS3/ITS4	Illumina	Asia	rhizosphere soil	10.1002/ldr.4395	Conversion of rainforest to rubber plantations impacts rhizosphere soil mycobiom
+Ma_2022_ABE	2022	56	ITS3/ITS4	Illumina	Asia	rhizosphere soil	10.3389/fmicb.2022.783371	Rhizosphere Soil Microbial Community Under Ice in a High-Latitude Wetland: Diffe
+Zhang_2017_02C2	2017	54	ITS3/ITS4	Illumina	Asia	soil	10.1016/j.apsoil.2016.11.019	Impacts of conversion from secondary forests to larch plantations on the structu
+Okrasinska_2022_YD	2022	53	ITS3/ITS4	Illumina	Asia/Europe	topsoil	10.1111/1462-2920.16007	Marginal lands and fungi–linking the type of soil contamination with fungal comm
+Likulunga_2021_UN	2021	120	ITS3_KYO2/ITS4	Illumina	Europe	soil	10.1016/j.foreco.2021.119709	Tree species composition and soil properties in pure and mixed beech-conifer sta
+Li_2020_TE	2020	71	ITS3_KYO2/ITS4	Illumina	Asia	soil	10.1093/femsec/fiaa030	Distinct mechanisms shape soil bacterial and fungal co-occurrence networks in a 
+Tu_2017_BCFB	2017	60	ITS3_KYO2/ITS4	Illumina	Asia	soil	10.1093/femsec/fix031	Microbial diversity in Chinese temperate steppe: unveiling the most influential 
+Lankau_2016_MZ	2016	50	ITS3_KYO2/ITS4	Illumina	North America	soil	10.1111/mec.13628	Ectomycorrhizal fungal richness declines towards the host species range edge
+Merges_2018_DD53	2018	288	ITS3_KYO2/ITS4_KYO3	Illumina	Europe	soil	10.1111/1365-2745.12942	Spatial patterns of pathogenic and mutualistic fungi across the elevational rang
+Fox_2021_VA	2021	338	ITS3ngs1 to 5 + ITS3ngs10/ITS4ngs	Illumina	Europe	soil	10.1093/femsec/fiab148	Small-scale agricultural grassland management can affect soil fungal community s
+Benitez_2021_QC	2021	216	ITS3ngs1 to 5 + ITS3ngs10/ITS4ngs	Illumina	North America	root + rhizosphere soil	10.1016/j.soilbio.2021.108309	Rhizosphere microbial communities explain positive effects of diverse crop rotat
+Bhople_2022_ZA	2022	72	ITS3ngs1 to 5 + ITS3ngs10/ITS4ngs	Illumina	Europe	soil	10.1016/j.apsoil.2022.104508	Variations in fungal community structure along elevation gradients in contrastin
+Boeraeve_2021_II	2021	128	ITS86F/ITS4	Illumina	Europe	soil	10.1007/s00572-020-00998-0	Partner turnover and changes in ectomycorrhizal fungal communities during the ea
+Sukdeo_2018_1DF4	2018	126	ITS86F/ITS4	Illumina	North America	soil	10.1016/j.ecolind.2017.09.021	Selecting fungal disturbance indicators to compare forest soil profile re-constr
+Pascual_2018_30D1	2018	120	ITS86F/ITS4	Illumina	Europe	rhizosphere soil	10.1016/j.soilbio.2017.12.013	Responses of bulk and rhizosphere soil microbial communities to thermoclimatic c
+Peeters_2022_XQ	2022	84	ITS86F/ITS4	Illumina	Europe	soil	10.3389/fmicb.2022.830668	Soil Microbiomes in Apple Orchards Are Influenced by the Type of Agricultural Ma
+Wang_2020_addCL1	2020	80	ITS86F/ITS4	Illumina	Asia	soil	10.1016/j.apsoil.2019.103488	Effects of long-term no-tillage with different straw mulching frequencies on soi
+Rao_2020_NW	2020	70	ITS86F/ITS4	Illumina	North America	soil	10.1371/journal.pone.0231875	Soil fungal communities differ between shaded and sun-intensive coffee plantatio
+Boeraeve_2019_1AJ	2019	63	ITS86F/ITS4	Illumina	Europe	soil	10.1016/j.scitotenv.2019.02.290	Forest edge effects on the mycorrhizal communities of the dual-mycorrhizal tree 
+Abrego_2020_CV	2020	90	ITS_S2F + ITS3 mixed 1:1/ITS4	Illumina	Europe	soil	10.1038/s41396-020-0732-1	Fungal communities decline with urbanization-more in air than in soil.
+Vahter_2022_XW	2022	78	fITS7+fITS7o/ITS4	Illumina	Europe	soil	10.1016/j.soilbio.2022.108652	Landscapes, management practices and their interactions shape soil fungal divers
+Laperriere_2019_EO	2019	256	fITS7/ITS4	Illumina	North America	soil	10.3390/f10121096	Estimation of fungal diversity and identification of major abiotic drivers influ
+Zheng_2021_QP	2021	203	fITS7/ITS4	Illumina	Asia	soil	10.1093/femsec/fiab062	Soil fungal diversity and community assembly: affected by island size or type?
+Carson_2019_B39C	2019	166	fITS7/ITS4	Illumina	North America	soil	10.1016/j.funeco.2019.03.002	Soil fungal community changes in response to long-term fire cessation and N fert
+Egidi_AD_2019	2019	161	fITS7/ITS4	Illumina	Africa/Asia/Australia/Europe/North America/South America	soil	10.1038/s41467-019-10373-z	A few Ascomycota taxa dominate soil fungal communities worldwide.
+DelgadoBaquerizo_2017_BB88	2015	159	fITS7/ITS4	Illumina	Africa/Asia/Australia/Europe/North America/South America	soil	10.1073/pnas.1516684112	Increasing aridity reduces soil microbial diversity and abundance in global dryl
+Anthony_2017_647F	2017	142	fITS7/ITS4	Illumina	North America	soil	10.1002/ecs2.1951	Fungal community homogenization, shift in dominant trophic guild, and appearance
+Shigyo_2021_TF	2021	120	fITS7/ITS4	Illumina	Asia	soil	10.1016/j.funeco.2020.101036	Saprotrophic and ectomycorrhizal fungi exhibit contrasting richness patterns alo
+Dopheide_2021_UZ	2021	108	fITS7/ITS4	Illumina	Australia	soil	10.1093/femsec/fiab156	Depth-structuring of multi-kingdom soil communities in agricultural pastures.
+Mino_2021_VC	2021	89	fITS7/ITS4	Illumina	North America	soil	10.1093/femsec/fiab154	Watershed and fire severity are stronger determinants of soil chemistry and micr
+ArraianoCastilho_2020_BA	2020	82	fITS7/ITS4	Illumina	Europe	soil	10.1016/j.funeco.2020.100936	lant-fungal interactions in hybrid zones: Ectomycorrhizal communities of willows
+Anthony_2020_mBY	2020	80	fITS7/ITS4	Illumina	North America	soil	10.1007/s00442-020-04797-4	Plant invasion impacts on fungal community structure and function depend on soil
+Narayanan_2021_mDO	2021	80	fITS7/ITS4	Illumina	North America	soil	10.1016/j.funeco.2021.101062	Soil fungal communities are compositionally resistant to drought manipulations -
+PradaSalcedo_2021_GT	2021	64	fITS7/ITS4	Illumina	Europe	soil	10.1111/mec.15749	Fungal guilds and soil functionality respond to tree community traits rather tha
+Semenova-Nelsen_2019_add	2019	60	fITS7/ITS4	Illumina	North America	soil	10.1111/nph.16096	Frequent fire reorganizes fungal communities and slows decomposition across a he
+Beule_2021_SG	2021	60	fITS7/ITS4	Illumina	Europe	soil	10.7717/peerj.12236, PRJNA715353	Early response of soil fungal communities to the conversion of monoculture cropl
+Seaton_2022_AAQ	2022	56	fITS7/ITS4	Illumina	Europe	soil	10.1016/j.agee.2022.107900	Pasture age impacts soil fungal composition while bacteria respond to soil chemi
+Kirkman_2022_XB	2022	54	fITS7/ITS4	Illumina	Asia	soil	10.3389/fmicb.2022.792928	Diversity and Ecological Guild Analysis of the Oil Palm Fungal Microbiome Across
+Chen_2022_AKD	2022	63	fITS7/ITS4_Fun	Illumina	Asia	soil	10.3390/jof8080807	Altitudinal Variation Influences Soil Fungal Community Composition and Diversity
+Ramirez_2019_D0B2	2019	810	fITS9/ITS4	Illumina	Europe	soil	10.1038/s41559-019-0828-z	Range-expansion effects on the belowground plant microbiome.
+VanNuland_2021_QW	2021	270	fITS9/ITS4	Illumina	North America	soil	10.1111/nph.17599	Natural soil microbiome variation affects spring foliar phenology with consequen
+Rijssel_2022_ABT	2022	195	fITS9/ITS4	Illumina	Europe	soil	10.1111/mec.16571	Soil microbial diversity and community composition during conversion from conven
+Dove_2021_VE	2021	115	fITS9/ITS4	Illumina	North America	soil	10.1038/s43705-021-00081-5	Depth dependence of climatic controls on soil microbial community activity and c
+Li_2021_mDU	2021	96	fITS9/ITS4	Illumina	North America	soil	10.1016/j.soilbio.2021.108349	Long-term excess nitrogen fertilizer increases sensitivity of soil microbial com
+van_der_Wal_2017_3070	2017	71	fITS9/ITS4	Illumina	Europe	soil	10.1016/j.funeco.2017.08.006	Soil-wood interactions: Influence of decaying coniferous and broadleaf logs on c
+Froeslev_2019_CA74	2019	276	gITS7/ITS4	Illumina	Europe	soil	10.1016/j.biocon.2019.02.038	Man against machine: Do fungal fruitbodies and eDNA give similar biodiversity as
+Guo_2019_mBG	2019	220	gITS7/ITS4	Illumina	North America	soil	10.1038/s41559-019-0848-8	Climate warming accelerates temporal scaling of grassland soil microbial biodive
+Zhao_2019_0D8E	2019	194	gITS7/ITS4	Illumina	Asia	soil	10.1016/j.funeco.2019.07.010	The scale dependence of fungal community distribution in paddy soil driven by st
+Liu_2020_add	2020	144	gITS7/ITS4	Illumina	Asia	soil	10.1016/j.soilbio.2020.107763	Decoupled diversity patterns in bacteria and fungi across continental forest eco
+Polackova_2016_KRTINY	2016	135	gITS7/ITS4	Illumina	Europe	soil	10.1093/femsec/fiw223	Drivers of yeast community composition in the litter and soil of a temperate for
+Tu_2020_LA	2020	126	gITS7/ITS4	Illumina	North America	soil	10.1016/j.soilbio.2020.107897	Biogeographic patterns of microbial co-occurrence ecological networks in six Ame
+Zhou_2022_ABD	2022	107	gITS7/ITS4	Illumina	North America	soil	10.1093/femsec/fiac074	Microbial biodiversity contributes to soil carbon release: A case study on fire 
+Samonil_2020_GB	2020	96	gITS7/ITS4	Illumina	Europe	soil	10.1016/j.geoderma.2020.114499	Convergence, divergence or chaos? Consequences of tree trunk decay for pedogenes
+Martinovic_2021_SN	2021	93	gITS7/ITS4	Illumina	Europe	soil	10.1111/ele.13896	Temporal turnover of the soil microbiome composition is guild-specific.
+Mundra_2022_XF	2022	72	gITS7/ITS4	Illumina	Europe	soil	10.1111/nph.18109	Shift in tree species changes the belowground biota of boreal forests.
+Han_2021_LF	2021	60	gITS7/ITS4	Illumina	Asia	soil	10.1016/j.apsoil.2020.103813	Effects of vegetation type, season, and soil properties on soil microbial commun
+Odriozola_2021_QY	2021	58	gITS7/ITS4	Illumina	Europe	soil	10.1016/j.soilbio.2021.108366	Predictors of soil fungal biomass and community composition in temperate mountai
+Odriozola_2020_GA	2020	56	gITS7/ITS4	Illumina	Europe	soil	10.1016/j.funeco.2020.100985	Stand age affects fungal community composition in a Central European temperate f
+Shigyo_2019_5B19	2019	144	gITS7/ITS4ngs	Illumina	Asia	soil	10.3389/fmicb.2019.01944	Seasonal Dynamics of Soil Fungal and Bacterial Communities in Cool-Temperate Mon
+Sun_2021_PK	2021	1345	gITS7ngs/ITS4ngsUni	Illumina	Asia	topsoil	10.46471/gigabyte.16	Efficient and stable metabarcoding sequencing data using a DNBSEQ-G400 sequencer

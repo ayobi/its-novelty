@@ -1,0 +1,1052 @@
+nohup: ignoring input
+database: 5521 ASVs
+[09:40:19] searching GlobalFungi_ITS_variants/gf_its2_known_trim.fa  (26096 queries)
+vsearch v2.31.0_linux_x86_64, 60.5GB RAM, 32 cores
+https://github.com/torognes/vsearch
+
+Reading file dada2_out/asvs_its2.fasta 0%
+Reading file dada2_out/asvs_its2.fasta 1%
+Reading file dada2_out/asvs_its2.fasta 2%
+Reading file dada2_out/asvs_its2.fasta 3%
+Reading file dada2_out/asvs_its2.fasta 4%
+Reading file dada2_out/asvs_its2.fasta 5%
+Reading file dada2_out/asvs_its2.fasta 6%
+Reading file dada2_out/asvs_its2.fasta 7%
+Reading file dada2_out/asvs_its2.fasta 8%
+Reading file dada2_out/asvs_its2.fasta 9%
+Reading file dada2_out/asvs_its2.fasta 10%
+Reading file dada2_out/asvs_its2.fasta 11%
+Reading file dada2_out/asvs_its2.fasta 12%
+Reading file dada2_out/asvs_its2.fasta 13%
+Reading file dada2_out/asvs_its2.fasta 14%
+Reading file dada2_out/asvs_its2.fasta 15%
+Reading file dada2_out/asvs_its2.fasta 16%
+Reading file dada2_out/asvs_its2.fasta 17%
+Reading file dada2_out/asvs_its2.fasta 18%
+Reading file dada2_out/asvs_its2.fasta 19%
+Reading file dada2_out/asvs_its2.fasta 20%
+Reading file dada2_out/asvs_its2.fasta 21%
+Reading file dada2_out/asvs_its2.fasta 22%
+Reading file dada2_out/asvs_its2.fasta 23%
+Reading file dada2_out/asvs_its2.fasta 24%
+Reading file dada2_out/asvs_its2.fasta 25%
+Reading file dada2_out/asvs_its2.fasta 26%
+Reading file dada2_out/asvs_its2.fasta 27%
+Reading file dada2_out/asvs_its2.fasta 28%
+Reading file dada2_out/asvs_its2.fasta 29%
+Reading file dada2_out/asvs_its2.fasta 30%
+Reading file dada2_out/asvs_its2.fasta 31%
+Reading file dada2_out/asvs_its2.fasta 32%
+Reading file dada2_out/asvs_its2.fasta 33%
+Reading file dada2_out/asvs_its2.fasta 34%
+Reading file dada2_out/asvs_its2.fasta 35%
+Reading file dada2_out/asvs_its2.fasta 36%
+Reading file dada2_out/asvs_its2.fasta 37%
+Reading file dada2_out/asvs_its2.fasta 38%
+Reading file dada2_out/asvs_its2.fasta 39%
+Reading file dada2_out/asvs_its2.fasta 40%
+Reading file dada2_out/asvs_its2.fasta 41%
+Reading file dada2_out/asvs_its2.fasta 42%
+Reading file dada2_out/asvs_its2.fasta 43%
+Reading file dada2_out/asvs_its2.fasta 44%
+Reading file dada2_out/asvs_its2.fasta 45%
+Reading file dada2_out/asvs_its2.fasta 46%
+Reading file dada2_out/asvs_its2.fasta 47%
+Reading file dada2_out/asvs_its2.fasta 48%
+Reading file dada2_out/asvs_its2.fasta 49%
+Reading file dada2_out/asvs_its2.fasta 50%
+Reading file dada2_out/asvs_its2.fasta 51%
+Reading file dada2_out/asvs_its2.fasta 52%
+Reading file dada2_out/asvs_its2.fasta 53%
+Reading file dada2_out/asvs_its2.fasta 54%
+Reading file dada2_out/asvs_its2.fasta 55%
+Reading file dada2_out/asvs_its2.fasta 56%
+Reading file dada2_out/asvs_its2.fasta 57%
+Reading file dada2_out/asvs_its2.fasta 58%
+Reading file dada2_out/asvs_its2.fasta 59%
+Reading file dada2_out/asvs_its2.fasta 60%
+Reading file dada2_out/asvs_its2.fasta 61%
+Reading file dada2_out/asvs_its2.fasta 62%
+Reading file dada2_out/asvs_its2.fasta 63%
+Reading file dada2_out/asvs_its2.fasta 64%
+Reading file dada2_out/asvs_its2.fasta 65%
+Reading file dada2_out/asvs_its2.fasta 66%
+Reading file dada2_out/asvs_its2.fasta 67%
+Reading file dada2_out/asvs_its2.fasta 68%
+Reading file dada2_out/asvs_its2.fasta 69%
+Reading file dada2_out/asvs_its2.fasta 70%
+Reading file dada2_out/asvs_its2.fasta 71%
+Reading file dada2_out/asvs_its2.fasta 72%
+Reading file dada2_out/asvs_its2.fasta 73%
+Reading file dada2_out/asvs_its2.fasta 74%
+Reading file dada2_out/asvs_its2.fasta 75%
+Reading file dada2_out/asvs_its2.fasta 76%
+Reading file dada2_out/asvs_its2.fasta 77%
+Reading file dada2_out/asvs_its2.fasta 78%
+Reading file dada2_out/asvs_its2.fasta 79%
+Reading file dada2_out/asvs_its2.fasta 80%
+Reading file dada2_out/asvs_its2.fasta 81%
+Reading file dada2_out/asvs_its2.fasta 82%
+Reading file dada2_out/asvs_its2.fasta 83%
+Reading file dada2_out/asvs_its2.fasta 84%
+Reading file dada2_out/asvs_its2.fasta 85%
+Reading file dada2_out/asvs_its2.fasta 86%
+Reading file dada2_out/asvs_its2.fasta 87%
+Reading file dada2_out/asvs_its2.fasta 88%
+Reading file dada2_out/asvs_its2.fasta 89%
+Reading file dada2_out/asvs_its2.fasta 90%
+Reading file dada2_out/asvs_its2.fasta 91%
+Reading file dada2_out/asvs_its2.fasta 92%
+Reading file dada2_out/asvs_its2.fasta 93%
+Reading file dada2_out/asvs_its2.fasta 94%
+Reading file dada2_out/asvs_its2.fasta 95%
+Reading file dada2_out/asvs_its2.fasta 96%
+Reading file dada2_out/asvs_its2.fasta 97%
+Reading file dada2_out/asvs_its2.fasta 98%
+Reading file dada2_out/asvs_its2.fasta 99%
+Reading file dada2_out/asvs_its2.fasta 100%
+Reading file dada2_out/asvs_its2.fasta 100%
+1696599 nt in 5521 seqs, min 98, max 446, avg 307
+Masking 0%
+Masking 1%
+Masking 2%
+Masking 3%
+Masking 4%
+Masking 5%
+Masking 6%
+Masking 7%
+Masking 8%
+Masking 9%
+Masking 10%
+Masking 11%
+Masking 12%
+Masking 13%
+Masking 14%
+Masking 15%
+Masking 16%
+Masking 17%
+Masking 18%
+Masking 19%
+Masking 20%
+Masking 21%
+Masking 22%
+Masking 23%
+Masking 24%
+Masking 25%
+Masking 26%
+Masking 27%
+Masking 28%
+Masking 29%
+Masking 30%
+Masking 31%
+Masking 32%
+Masking 33%
+Masking 34%
+Masking 35%
+Masking 36%
+Masking 37%
+Masking 38%
+Masking 39%
+Masking 40%
+Masking 41%
+Masking 42%
+Masking 43%
+Masking 44%
+Masking 45%
+Masking 46%
+Masking 47%
+Masking 48%
+Masking 49%
+Masking 50%
+Masking 51%
+Masking 52%
+Masking 53%
+Masking 54%
+Masking 55%
+Masking 56%
+Masking 57%
+Masking 58%
+Masking 59%
+Masking 60%
+Masking 61%
+Masking 62%
+Masking 63%
+Masking 64%
+Masking 65%
+Masking 66%
+Masking 67%
+Masking 68%
+Masking 69%
+Masking 70%
+Masking 71%
+Masking 72%
+Masking 73%
+Masking 74%
+Masking 75%
+Masking 76%
+Masking 77%
+Masking 78%
+Masking 79%
+Masking 80%
+Masking 81%
+Masking 82%
+Masking 83%
+Masking 84%
+Masking 85%
+Masking 86%
+Masking 87%
+Masking 88%
+Masking 89%
+Masking 90%
+Masking 91%
+Masking 92%
+Masking 93%
+Masking 94%
+Masking 95%
+Masking 96%
+Masking 97%
+Masking 98%
+Masking 99%
+Masking 100%
+Counting k-mers 0%
+Counting k-mers 1%
+Counting k-mers 2%
+Counting k-mers 3%
+Counting k-mers 4%
+Counting k-mers 5%
+Counting k-mers 6%
+Counting k-mers 7%
+Counting k-mers 8%
+Counting k-mers 9%
+Counting k-mers 10%
+Counting k-mers 11%
+Counting k-mers 12%
+Counting k-mers 13%
+Counting k-mers 14%
+Counting k-mers 15%
+Counting k-mers 16%
+Counting k-mers 17%
+Counting k-mers 18%
+Counting k-mers 19%
+Counting k-mers 20%
+Counting k-mers 21%
+Counting k-mers 22%
+Counting k-mers 23%
+Counting k-mers 24%
+Counting k-mers 25%
+Counting k-mers 26%
+Counting k-mers 27%
+Counting k-mers 28%
+Counting k-mers 29%
+Counting k-mers 30%
+Counting k-mers 31%
+Counting k-mers 32%
+Counting k-mers 33%
+Counting k-mers 34%
+Counting k-mers 35%
+Counting k-mers 36%
+Counting k-mers 37%
+Counting k-mers 38%
+Counting k-mers 39%
+Counting k-mers 40%
+Counting k-mers 41%
+Counting k-mers 42%
+Counting k-mers 43%
+Counting k-mers 44%
+Counting k-mers 45%
+Counting k-mers 46%
+Counting k-mers 47%
+Counting k-mers 48%
+Counting k-mers 49%
+Counting k-mers 50%
+Counting k-mers 51%
+Counting k-mers 52%
+Counting k-mers 53%
+Counting k-mers 54%
+Counting k-mers 55%
+Counting k-mers 56%
+Counting k-mers 57%
+Counting k-mers 58%
+Counting k-mers 59%
+Counting k-mers 60%
+Counting k-mers 61%
+Counting k-mers 62%
+Counting k-mers 63%
+Counting k-mers 64%
+Counting k-mers 65%
+Counting k-mers 66%
+Counting k-mers 67%
+Counting k-mers 68%
+Counting k-mers 69%
+Counting k-mers 70%
+Counting k-mers 71%
+Counting k-mers 72%
+Counting k-mers 73%
+Counting k-mers 74%
+Counting k-mers 75%
+Counting k-mers 76%
+Counting k-mers 77%
+Counting k-mers 78%
+Counting k-mers 79%
+Counting k-mers 80%
+Counting k-mers 81%
+Counting k-mers 82%
+Counting k-mers 83%
+Counting k-mers 84%
+Counting k-mers 85%
+Counting k-mers 86%
+Counting k-mers 87%
+Counting k-mers 88%
+Counting k-mers 89%
+Counting k-mers 90%
+Counting k-mers 91%
+Counting k-mers 92%
+Counting k-mers 93%
+Counting k-mers 94%
+Counting k-mers 95%
+Counting k-mers 96%
+Counting k-mers 97%
+Counting k-mers 98%
+Counting k-mers 99%
+Counting k-mers 100%
+Creating k-mer index 0%
+Creating k-mer index 1%
+Creating k-mer index 2%
+Creating k-mer index 3%
+Creating k-mer index 4%
+Creating k-mer index 5%
+Creating k-mer index 6%
+Creating k-mer index 7%
+Creating k-mer index 8%
+Creating k-mer index 9%
+Creating k-mer index 10%
+Creating k-mer index 11%
+Creating k-mer index 12%
+Creating k-mer index 13%
+Creating k-mer index 14%
+Creating k-mer index 15%
+Creating k-mer index 16%
+Creating k-mer index 17%
+Creating k-mer index 18%
+Creating k-mer index 19%
+Creating k-mer index 20%
+Creating k-mer index 21%
+Creating k-mer index 22%
+Creating k-mer index 23%
+Creating k-mer index 24%
+Creating k-mer index 25%
+Creating k-mer index 26%
+Creating k-mer index 27%
+Creating k-mer index 28%
+Creating k-mer index 29%
+Creating k-mer index 30%
+Creating k-mer index 31%
+Creating k-mer index 32%
+Creating k-mer index 33%
+Creating k-mer index 34%
+Creating k-mer index 35%
+Creating k-mer index 36%
+Creating k-mer index 37%
+Creating k-mer index 38%
+Creating k-mer index 39%
+Creating k-mer index 40%
+Creating k-mer index 41%
+Creating k-mer index 42%
+Creating k-mer index 43%
+Creating k-mer index 44%
+Creating k-mer index 45%
+Creating k-mer index 46%
+Creating k-mer index 47%
+Creating k-mer index 48%
+Creating k-mer index 49%
+Creating k-mer index 50%
+Creating k-mer index 51%
+Creating k-mer index 52%
+Creating k-mer index 53%
+Creating k-mer index 54%
+Creating k-mer index 55%
+Creating k-mer index 56%
+Creating k-mer index 57%
+Creating k-mer index 58%
+Creating k-mer index 59%
+Creating k-mer index 60%
+Creating k-mer index 61%
+Creating k-mer index 62%
+Creating k-mer index 63%
+Creating k-mer index 64%
+Creating k-mer index 65%
+Creating k-mer index 66%
+Creating k-mer index 67%
+Creating k-mer index 68%
+Creating k-mer index 69%
+Creating k-mer index 70%
+Creating k-mer index 71%
+Creating k-mer index 72%
+Creating k-mer index 73%
+Creating k-mer index 74%
+Creating k-mer index 75%
+Creating k-mer index 76%
+Creating k-mer index 77%
+Creating k-mer index 78%
+Creating k-mer index 79%
+Creating k-mer index 80%
+Creating k-mer index 81%
+Creating k-mer index 82%
+Creating k-mer index 83%
+Creating k-mer index 84%
+Creating k-mer index 85%
+Creating k-mer index 86%
+Creating k-mer index 87%
+Creating k-mer index 88%
+Creating k-mer index 89%
+Creating k-mer index 90%
+Creating k-mer index 91%
+Creating k-mer index 92%
+Creating k-mer index 93%
+Creating k-mer index 94%
+Creating k-mer index 95%
+Creating k-mer index 96%
+Creating k-mer index 97%
+Creating k-mer index 98%
+Creating k-mer index 99%
+Creating k-mer index 100%
+Searching 0%
+Searching 1%
+Searching 2%
+Searching 3%
+Searching 4%
+Searching 5%
+Searching 6%
+Searching 7%
+Searching 8%
+Searching 9%
+Searching 10%
+Searching 11%
+Searching 12%
+Searching 13%
+Searching 14%
+Searching 15%
+Searching 16%
+Searching 17%
+Searching 18%
+Searching 19%
+Searching 20%
+Searching 21%
+Searching 22%
+Searching 23%
+Searching 24%
+Searching 25%
+Searching 26%
+Searching 27%
+Searching 28%
+Searching 29%
+Searching 30%
+Searching 31%
+Searching 32%
+Searching 33%
+Searching 34%
+Searching 35%
+Searching 36%
+Searching 37%
+Searching 38%
+Searching 39%
+Searching 40%
+Searching 41%
+Searching 42%
+Searching 43%
+Searching 44%
+Searching 45%
+Searching 46%
+Searching 47%
+Searching 48%
+Searching 49%
+Searching 50%
+Searching 51%
+Searching 52%
+Searching 53%
+Searching 54%
+Searching 55%
+Searching 56%
+Searching 57%
+Searching 58%
+Searching 59%
+Searching 60%
+Searching 61%
+Searching 62%
+Searching 63%
+Searching 64%
+Searching 65%
+Searching 66%
+Searching 67%
+Searching 68%
+Searching 69%
+Searching 70%
+Searching 71%
+Searching 72%
+Searching 73%
+Searching 74%
+Searching 75%
+Searching 76%
+Searching 77%
+Searching 78%
+Searching 79%
+Searching 80%
+Searching 81%
+Searching 82%
+Searching 83%
+Searching 84%
+Searching 85%
+Searching 86%
+Searching 87%
+Searching 88%
+Searching 89%
+Searching 90%
+Searching 91%
+Searching 92%
+Searching 93%
+Searching 94%
+Searching 95%
+Searching 96%
+Searching 97%
+Searching 98%
+Searching 99%
+Searching 100%
+Searching 100%
+Matching unique query sequences: 3133 of 26096 (12.01%)
+[09:40:22] gf_known_vs_all.hits: 10482 hit rows
+
+=== named representative arm: any hit, >=90% coverage of the global variant ===
+  group                     n     >=97        %     >=95        %
+  flagged                1143       97     8.5%      118    10.3%
+    in >=2 samples        324       28     8.6%       31     9.6%
+    in 1 sample           819       69     8.4%       87    10.6%
+  non-flagged            4378     1971    45.0%     2493    56.9%
+    in >=2 samples       1668      830    49.8%     1048    62.8%
+    in 1 sample          2710     1141    42.1%     1445    53.3%
+[09:40:22] searching GlobalFungi_ITS_variants/gf_unknown_trim.fa  (50266003 queries)
+vsearch v2.31.0_linux_x86_64, 60.5GB RAM, 32 cores
+https://github.com/torognes/vsearch
+
+Reading file dada2_out/asvs_its2.fasta 0%
+Reading file dada2_out/asvs_its2.fasta 1%
+Reading file dada2_out/asvs_its2.fasta 2%
+Reading file dada2_out/asvs_its2.fasta 3%
+Reading file dada2_out/asvs_its2.fasta 4%
+Reading file dada2_out/asvs_its2.fasta 5%
+Reading file dada2_out/asvs_its2.fasta 6%
+Reading file dada2_out/asvs_its2.fasta 7%
+Reading file dada2_out/asvs_its2.fasta 8%
+Reading file dada2_out/asvs_its2.fasta 9%
+Reading file dada2_out/asvs_its2.fasta 10%
+Reading file dada2_out/asvs_its2.fasta 11%
+Reading file dada2_out/asvs_its2.fasta 12%
+Reading file dada2_out/asvs_its2.fasta 13%
+Reading file dada2_out/asvs_its2.fasta 14%
+Reading file dada2_out/asvs_its2.fasta 15%
+Reading file dada2_out/asvs_its2.fasta 16%
+Reading file dada2_out/asvs_its2.fasta 17%
+Reading file dada2_out/asvs_its2.fasta 18%
+Reading file dada2_out/asvs_its2.fasta 19%
+Reading file dada2_out/asvs_its2.fasta 20%
+Reading file dada2_out/asvs_its2.fasta 21%
+Reading file dada2_out/asvs_its2.fasta 22%
+Reading file dada2_out/asvs_its2.fasta 23%
+Reading file dada2_out/asvs_its2.fasta 24%
+Reading file dada2_out/asvs_its2.fasta 25%
+Reading file dada2_out/asvs_its2.fasta 26%
+Reading file dada2_out/asvs_its2.fasta 27%
+Reading file dada2_out/asvs_its2.fasta 28%
+Reading file dada2_out/asvs_its2.fasta 29%
+Reading file dada2_out/asvs_its2.fasta 30%
+Reading file dada2_out/asvs_its2.fasta 31%
+Reading file dada2_out/asvs_its2.fasta 32%
+Reading file dada2_out/asvs_its2.fasta 33%
+Reading file dada2_out/asvs_its2.fasta 34%
+Reading file dada2_out/asvs_its2.fasta 35%
+Reading file dada2_out/asvs_its2.fasta 36%
+Reading file dada2_out/asvs_its2.fasta 37%
+Reading file dada2_out/asvs_its2.fasta 38%
+Reading file dada2_out/asvs_its2.fasta 39%
+Reading file dada2_out/asvs_its2.fasta 40%
+Reading file dada2_out/asvs_its2.fasta 41%
+Reading file dada2_out/asvs_its2.fasta 42%
+Reading file dada2_out/asvs_its2.fasta 43%
+Reading file dada2_out/asvs_its2.fasta 44%
+Reading file dada2_out/asvs_its2.fasta 45%
+Reading file dada2_out/asvs_its2.fasta 46%
+Reading file dada2_out/asvs_its2.fasta 47%
+Reading file dada2_out/asvs_its2.fasta 48%
+Reading file dada2_out/asvs_its2.fasta 49%
+Reading file dada2_out/asvs_its2.fasta 50%
+Reading file dada2_out/asvs_its2.fasta 51%
+Reading file dada2_out/asvs_its2.fasta 52%
+Reading file dada2_out/asvs_its2.fasta 53%
+Reading file dada2_out/asvs_its2.fasta 54%
+Reading file dada2_out/asvs_its2.fasta 55%
+Reading file dada2_out/asvs_its2.fasta 56%
+Reading file dada2_out/asvs_its2.fasta 57%
+Reading file dada2_out/asvs_its2.fasta 58%
+Reading file dada2_out/asvs_its2.fasta 59%
+Reading file dada2_out/asvs_its2.fasta 60%
+Reading file dada2_out/asvs_its2.fasta 61%
+Reading file dada2_out/asvs_its2.fasta 62%
+Reading file dada2_out/asvs_its2.fasta 63%
+Reading file dada2_out/asvs_its2.fasta 64%
+Reading file dada2_out/asvs_its2.fasta 65%
+Reading file dada2_out/asvs_its2.fasta 66%
+Reading file dada2_out/asvs_its2.fasta 67%
+Reading file dada2_out/asvs_its2.fasta 68%
+Reading file dada2_out/asvs_its2.fasta 69%
+Reading file dada2_out/asvs_its2.fasta 70%
+Reading file dada2_out/asvs_its2.fasta 71%
+Reading file dada2_out/asvs_its2.fasta 72%
+Reading file dada2_out/asvs_its2.fasta 73%
+Reading file dada2_out/asvs_its2.fasta 74%
+Reading file dada2_out/asvs_its2.fasta 75%
+Reading file dada2_out/asvs_its2.fasta 76%
+Reading file dada2_out/asvs_its2.fasta 77%
+Reading file dada2_out/asvs_its2.fasta 78%
+Reading file dada2_out/asvs_its2.fasta 79%
+Reading file dada2_out/asvs_its2.fasta 80%
+Reading file dada2_out/asvs_its2.fasta 81%
+Reading file dada2_out/asvs_its2.fasta 82%
+Reading file dada2_out/asvs_its2.fasta 83%
+Reading file dada2_out/asvs_its2.fasta 84%
+Reading file dada2_out/asvs_its2.fasta 85%
+Reading file dada2_out/asvs_its2.fasta 86%
+Reading file dada2_out/asvs_its2.fasta 87%
+Reading file dada2_out/asvs_its2.fasta 88%
+Reading file dada2_out/asvs_its2.fasta 89%
+Reading file dada2_out/asvs_its2.fasta 90%
+Reading file dada2_out/asvs_its2.fasta 91%
+Reading file dada2_out/asvs_its2.fasta 92%
+Reading file dada2_out/asvs_its2.fasta 93%
+Reading file dada2_out/asvs_its2.fasta 94%
+Reading file dada2_out/asvs_its2.fasta 95%
+Reading file dada2_out/asvs_its2.fasta 96%
+Reading file dada2_out/asvs_its2.fasta 97%
+Reading file dada2_out/asvs_its2.fasta 98%
+Reading file dada2_out/asvs_its2.fasta 99%
+Reading file dada2_out/asvs_its2.fasta 100%
+Reading file dada2_out/asvs_its2.fasta 100%
+1696599 nt in 5521 seqs, min 98, max 446, avg 307
+Masking 0%
+Masking 1%
+Masking 2%
+Masking 3%
+Masking 4%
+Masking 5%
+Masking 6%
+Masking 7%
+Masking 8%
+Masking 9%
+Masking 10%
+Masking 11%
+Masking 12%
+Masking 13%
+Masking 14%
+Masking 15%
+Masking 16%
+Masking 17%
+Masking 18%
+Masking 19%
+Masking 20%
+Masking 21%
+Masking 22%
+Masking 23%
+Masking 24%
+Masking 25%
+Masking 26%
+Masking 27%
+Masking 28%
+Masking 29%
+Masking 30%
+Masking 31%
+Masking 32%
+Masking 33%
+Masking 34%
+Masking 35%
+Masking 36%
+Masking 37%
+Masking 38%
+Masking 39%
+Masking 40%
+Masking 41%
+Masking 42%
+Masking 43%
+Masking 44%
+Masking 45%
+Masking 46%
+Masking 47%
+Masking 48%
+Masking 49%
+Masking 50%
+Masking 51%
+Masking 52%
+Masking 53%
+Masking 54%
+Masking 55%
+Masking 56%
+Masking 57%
+Masking 58%
+Masking 59%
+Masking 60%
+Masking 61%
+Masking 62%
+Masking 63%
+Masking 64%
+Masking 65%
+Masking 66%
+Masking 67%
+Masking 68%
+Masking 69%
+Masking 70%
+Masking 71%
+Masking 72%
+Masking 73%
+Masking 74%
+Masking 75%
+Masking 76%
+Masking 77%
+Masking 78%
+Masking 79%
+Masking 80%
+Masking 81%
+Masking 82%
+Masking 83%
+Masking 84%
+Masking 85%
+Masking 86%
+Masking 87%
+Masking 88%
+Masking 89%
+Masking 90%
+Masking 91%
+Masking 92%
+Masking 93%
+Masking 94%
+Masking 95%
+Masking 96%
+Masking 97%
+Masking 98%
+Masking 99%
+Masking 100%
+Counting k-mers 0%
+Counting k-mers 1%
+Counting k-mers 2%
+Counting k-mers 3%
+Counting k-mers 4%
+Counting k-mers 5%
+Counting k-mers 6%
+Counting k-mers 7%
+Counting k-mers 8%
+Counting k-mers 9%
+Counting k-mers 10%
+Counting k-mers 11%
+Counting k-mers 12%
+Counting k-mers 13%
+Counting k-mers 14%
+Counting k-mers 15%
+Counting k-mers 16%
+Counting k-mers 17%
+Counting k-mers 18%
+Counting k-mers 19%
+Counting k-mers 20%
+Counting k-mers 21%
+Counting k-mers 22%
+Counting k-mers 23%
+Counting k-mers 24%
+Counting k-mers 25%
+Counting k-mers 26%
+Counting k-mers 27%
+Counting k-mers 28%
+Counting k-mers 29%
+Counting k-mers 30%
+Counting k-mers 31%
+Counting k-mers 32%
+Counting k-mers 33%
+Counting k-mers 34%
+Counting k-mers 35%
+Counting k-mers 36%
+Counting k-mers 37%
+Counting k-mers 38%
+Counting k-mers 39%
+Counting k-mers 40%
+Counting k-mers 41%
+Counting k-mers 42%
+Counting k-mers 43%
+Counting k-mers 44%
+Counting k-mers 45%
+Counting k-mers 46%
+Counting k-mers 47%
+Counting k-mers 48%
+Counting k-mers 49%
+Counting k-mers 50%
+Counting k-mers 51%
+Counting k-mers 52%
+Counting k-mers 53%
+Counting k-mers 54%
+Counting k-mers 55%
+Counting k-mers 56%
+Counting k-mers 57%
+Counting k-mers 58%
+Counting k-mers 59%
+Counting k-mers 60%
+Counting k-mers 61%
+Counting k-mers 62%
+Counting k-mers 63%
+Counting k-mers 64%
+Counting k-mers 65%
+Counting k-mers 66%
+Counting k-mers 67%
+Counting k-mers 68%
+Counting k-mers 69%
+Counting k-mers 70%
+Counting k-mers 71%
+Counting k-mers 72%
+Counting k-mers 73%
+Counting k-mers 74%
+Counting k-mers 75%
+Counting k-mers 76%
+Counting k-mers 77%
+Counting k-mers 78%
+Counting k-mers 79%
+Counting k-mers 80%
+Counting k-mers 81%
+Counting k-mers 82%
+Counting k-mers 83%
+Counting k-mers 84%
+Counting k-mers 85%
+Counting k-mers 86%
+Counting k-mers 87%
+Counting k-mers 88%
+Counting k-mers 89%
+Counting k-mers 90%
+Counting k-mers 91%
+Counting k-mers 92%
+Counting k-mers 93%
+Counting k-mers 94%
+Counting k-mers 95%
+Counting k-mers 96%
+Counting k-mers 97%
+Counting k-mers 98%
+Counting k-mers 99%
+Counting k-mers 100%
+Creating k-mer index 0%
+Creating k-mer index 1%
+Creating k-mer index 2%
+Creating k-mer index 3%
+Creating k-mer index 4%
+Creating k-mer index 5%
+Creating k-mer index 6%
+Creating k-mer index 7%
+Creating k-mer index 8%
+Creating k-mer index 9%
+Creating k-mer index 10%
+Creating k-mer index 11%
+Creating k-mer index 12%
+Creating k-mer index 13%
+Creating k-mer index 14%
+Creating k-mer index 15%
+Creating k-mer index 16%
+Creating k-mer index 17%
+Creating k-mer index 18%
+Creating k-mer index 19%
+Creating k-mer index 20%
+Creating k-mer index 21%
+Creating k-mer index 22%
+Creating k-mer index 23%
+Creating k-mer index 24%
+Creating k-mer index 25%
+Creating k-mer index 26%
+Creating k-mer index 27%
+Creating k-mer index 28%
+Creating k-mer index 29%
+Creating k-mer index 30%
+Creating k-mer index 31%
+Creating k-mer index 32%
+Creating k-mer index 33%
+Creating k-mer index 34%
+Creating k-mer index 35%
+Creating k-mer index 36%
+Creating k-mer index 37%
+Creating k-mer index 38%
+Creating k-mer index 39%
+Creating k-mer index 40%
+Creating k-mer index 41%
+Creating k-mer index 42%
+Creating k-mer index 43%
+Creating k-mer index 44%
+Creating k-mer index 45%
+Creating k-mer index 46%
+Creating k-mer index 47%
+Creating k-mer index 48%
+Creating k-mer index 49%
+Creating k-mer index 50%
+Creating k-mer index 51%
+Creating k-mer index 52%
+Creating k-mer index 53%
+Creating k-mer index 54%
+Creating k-mer index 55%
+Creating k-mer index 56%
+Creating k-mer index 57%
+Creating k-mer index 58%
+Creating k-mer index 59%
+Creating k-mer index 60%
+Creating k-mer index 61%
+Creating k-mer index 62%
+Creating k-mer index 63%
+Creating k-mer index 64%
+Creating k-mer index 65%
+Creating k-mer index 66%
+Creating k-mer index 67%
+Creating k-mer index 68%
+Creating k-mer index 69%
+Creating k-mer index 70%
+Creating k-mer index 71%
+Creating k-mer index 72%
+Creating k-mer index 73%
+Creating k-mer index 74%
+Creating k-mer index 75%
+Creating k-mer index 76%
+Creating k-mer index 77%
+Creating k-mer index 78%
+Creating k-mer index 79%
+Creating k-mer index 80%
+Creating k-mer index 81%
+Creating k-mer index 82%
+Creating k-mer index 83%
+Creating k-mer index 84%
+Creating k-mer index 85%
+Creating k-mer index 86%
+Creating k-mer index 87%
+Creating k-mer index 88%
+Creating k-mer index 89%
+Creating k-mer index 90%
+Creating k-mer index 91%
+Creating k-mer index 92%
+Creating k-mer index 93%
+Creating k-mer index 94%
+Creating k-mer index 95%
+Creating k-mer index 96%
+Creating k-mer index 97%
+Creating k-mer index 98%
+Creating k-mer index 99%
+Creating k-mer index 100%
+Searching 0%
+Searching 1%
+Searching 2%
+Searching 3%
+Searching 4%
+Searching 5%
+Searching 6%
+Searching 7%
+Searching 8%
+Searching 9%
+Searching 10%
+Searching 11%
+Searching 12%
+Searching 13%
+Searching 14%
+Searching 15%
+Searching 16%
+Searching 17%
+Searching 18%
+Searching 19%
+Searching 20%
+Searching 21%
+Searching 22%
+Searching 23%
+Searching 24%
+Searching 25%
+Searching 26%
+Searching 27%
+Searching 28%
+Searching 29%
+Searching 30%
+Searching 31%
+Searching 32%
+Searching 33%
+Searching 34%
+Searching 35%
+Searching 36%
+Searching 37%
+Searching 38%
+Searching 39%
+Searching 40%
+Searching 41%
+Searching 42%
+Searching 43%
+Searching 44%
+Searching 45%
+Searching 46%
+Searching 47%
+Searching 48%
+Searching 49%
+Searching 50%
+Searching 51%
+Searching 52%
+Searching 53%
+Searching 54%
+Searching 55%
+Searching 56%
+Searching 57%
+Searching 58%
+Searching 59%
+Searching 60%
+Searching 61%
+Searching 62%
+Searching 63%
+Searching 64%
+Searching 65%
+Searching 66%
+Searching 67%
+Searching 68%
+Searching 69%
+Searching 70%
+Searching 71%
+Searching 72%
+Searching 73%
+Searching 74%
+Searching 75%
+Searching 76%
+Searching 77%
+Searching 78%
+Searching 79%
+Searching 80%
+Searching 81%
+Searching 82%
+Searching 83%
+Searching 84%
+Searching 85%
+Searching 86%
+Searching 87%
+Searching 88%
+Searching 89%
+Searching 90%
+Searching 91%
+Searching 92%
+Searching 93%
+Searching 94%
+Searching 95%
+Searching 96%
+Searching 97%
+Searching 98%
+Searching 99%
+Searching 100%
+Searching 100%
+Matching unique query sequences: 5952153 of 50266003 (11.84%)
+[11:05:16] gf_unknown_vs_all.hits: 22452545 hit rows
+
+=== unnamed variant arm: any hit, >=90% coverage of the global variant ===
+  group                     n     >=97        %     >=95        %
+  flagged                1143      585    51.2%      636    55.6%
+    in >=2 samples        324      189    58.3%      201    62.0%
+    in 1 sample           819      396    48.4%      435    53.1%
+  non-flagged            4378     3792    86.6%     3958    90.4%
+    in >=2 samples       1668     1510    90.5%     1564    93.8%
+    in 1 sample          2710     2282    84.2%     2394    88.3%
+
+note: the named arm searches species-hypothesis representatives, the unnamed arm
+individual variants. The two rates are not symmetric and must not be reported
+side by side without saying so.

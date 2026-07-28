@@ -1,0 +1,356 @@
+File_Name,Sample_type,Primer_Assay,Sampling site code
+01B_R1_001.fastq,sample,12s_bird assay,01
+01B_R2_001.fastq,sample,12s_bird assay,01
+01F_R1_001.fastq,sample,16s_fish assay,01
+01F_R2_001.fastq,sample,16s_fish assay,01
+01M_R1_001.fastq,sample,16s_mammal assay,01
+01M_R2_001.fastq,sample,16s_mammal assay,01
+02B_R1_001.fastq,sample,12s_bird assay,02
+02B_R2_001.fastq,sample,12s_bird assay,02
+02F_R1_001.fastq,sample,16s_fish assay,02
+02F_R2_001.fastq,sample,16s_fish assay,02
+02M_R1_001.fastq,sample,16s_mammal assay,02
+02M_R2_001.fastq,sample,16s_mammal assay,02
+03B_R1_001.fastq,sample,12s_bird assay,03
+03B_R2_001.fastq,sample,12s_bird assay,03
+03F_R1_001.fastq,sample,16s_fish assay,03
+03F_R2_001.fastq,sample,16s_fish assay,03
+03M_R1_001.fastq,sample,16s_mammal assay,03
+03M_R2_001.fastq,sample,16s_mammal assay,03
+04B_R1_001.fastq,sample,12s_bird assay,04
+04B_R2_001.fastq,sample,12s_bird assay,04
+04F_R1_001.fastq,sample,16s_fish assay,04
+04F_R2_001.fastq,sample,16s_fish assay,04
+04M_R1_001.fastq,sample,16s_mammal assay,04
+04M_R2_001.fastq,sample,16s_mammal assay,04
+05B_R1_001.fastq,sample,12s_bird assay,05
+05B_R2_001.fastq,sample,12s_bird assay,05
+05F_R1_001.fastq,sample,16s_fish assay,05
+05F_R2_001.fastq,sample,16s_fish assay,05
+05M_R1_001.fastq,sample,16s_mammal assay,05
+05M_R2_001.fastq,sample,16s_mammal assay,05
+07B_R1_001.fastq,sample,12s_bird assay,07
+07B_R2_001.fastq,sample,12s_bird assay,07
+07F_R1_001.fastq,sample,16s_fish assay,07
+07F_R2_001.fastq,sample,16s_fish assay,07
+07M_R1_001.fastq,sample,16s_mammal assay,07
+07M_R2_001.fastq,sample,16s_mammal assay,07
+08B_R1_001.fastq,sample,12s_bird assay,08
+08B_R2_001.fastq,sample,12s_bird assay,08
+08F_R1_001.fastq,sample,16s_fish assay,08
+08F_R2_001.fastq,sample,16s_fish assay,08
+08M_R1_001.fastq,sample,16s_mammal assay,08
+08M_R2_001.fastq,sample,16s_mammal assay,08
+09B_R1_001.fastq,sample,12s_bird assay,09
+09B_R2_001.fastq,sample,12s_bird assay,09
+09F_R1_001.fastq,sample,16s_fish assay,09
+09F_R2_001.fastq,sample,16s_fish assay,09
+09M_R1_001.fastq,sample,16s_mammal assay,09
+09M_R2_001.fastq,sample,16s_mammal assay,09
+10B_R1_001.fastq,sample,12s_bird assay,10
+10B_R2_001.fastq,sample,12s_bird assay,10
+10F_R1_001.fastq,sample,16s_fish assay,10
+10F_R2_001.fastq,sample,16s_fish assay,10
+10M_R1_001.fastq,sample,16s_mammal assay,10
+10M_R2_001.fastq,sample,16s_mammal assay,10
+11B_R1_001.fastq,sample,12s_bird assay,11
+11B_R2_001.fastq,sample,12s_bird assay,11
+11F_R1_001.fastq,sample,16s_fish assay,11
+11F_R2_001.fastq,sample,16s_fish assay,11
+11M_R1_001.fastq,sample,16s_mammal assay,11
+11M_R2_001.fastq,sample,16s_mammal assay,11
+12B_R1_001.fastq,sample,12s_bird assay,12
+12B_R2_001.fastq,sample,12s_bird assay,12
+12F_R1_001.fastq,sample,16s_fish assay,12
+12F_R2_001.fastq,sample,16s_fish assay,12
+12M_R1_001.fastq,sample,16s_mammal assay,12
+12M_R2_001.fastq,sample,16s_mammal assay,12
+13B_R1_001.fastq,sample,12s_bird assay,13
+13B_R2_001.fastq,sample,12s_bird assay,13
+13F_R1_001.fastq,sample,16s_fish assay,13
+13F_R2_001.fastq,sample,16s_fish assay,13
+13M_R1_001.fastq,sample,16s_mammal assay,13
+13M_R2_001.fastq,sample,16s_mammal assay,13
+15B_R1_001.fastq,sample,12s_bird assay,15
+15B_R2_001.fastq,sample,12s_bird assay,15
+15F_R1_001.fastq,sample,16s_fish assay,15
+15F_R2_001.fastq,sample,16s_fish assay,15
+15M_R1_001.fastq,sample,16s_mammal assay,15
+15M_R2_001.fastq,sample,16s_mammal assay,15
+16B_R1_001.fastq,sample,12s_bird assay,16
+16B_R2_001.fastq,sample,12s_bird assay,16
+16F_R1_001.fastq,sample,16s_fish assay,16
+16F_R2_001.fastq,sample,16s_fish assay,16
+16M_R1_001.fastq,sample,16s_mammal assay,16
+16M_R2_001.fastq,sample,16s_mammal assay,16
+17B_R1_001.fastq,sample,12s_bird assay,17
+17B_R2_001.fastq,sample,12s_bird assay,17
+17F_R1_001.fastq,sample,16s_fish assay,17
+17F_R2_001.fastq,sample,16s_fish assay,17
+17M_R1_001.fastq,sample,16s_mammal assay,17
+17M_R2_001.fastq,sample,16s_mammal assay,17
+18B_R1_001.fastq,sample,12s_bird assay,18
+18B_R2_001.fastq,sample,12s_bird assay,18
+18F_R1_001.fastq,sample,16s_fish assay,18
+18F_R2_001.fastq,sample,16s_fish assay,18
+18M_R1_001.fastq,sample,16s_mammal assay,18
+18M_R2_001.fastq,sample,16s_mammal assay,18
+19B_R1_001.fastq,sample,12s_bird assay,19
+19B_R2_001.fastq,sample,12s_bird assay,19
+19F_R1_001.fastq,sample,16s_fish assay,19
+19F_R2_001.fastq,sample,16s_fish assay,19
+19M_R1_001.fastq,sample,16s_mammal assay,19
+19M_R2_001.fastq,sample,16s_mammal assay,19
+20B_R1_001.fastq,sample,12s_bird assay,20
+20B_R2_001.fastq,sample,12s_bird assay,20
+20F_R1_001.fastq,sample,16s_fish assay,20
+20F_R2_001.fastq,sample,16s_fish assay,20
+20M_R1_001.fastq,sample,16s_mammal assay,20
+20M_R2_001.fastq,sample,16s_mammal assay,20
+21B_R1_001.fastq,sample,12s_bird assay,21
+21B_R2_001.fastq,sample,12s_bird assay,21
+21F_R1_001.fastq,sample,16s_fish assay,21
+21F_R2_001.fastq,sample,16s_fish assay,21
+21M_R1_001.fastq,sample,16s_mammal assay,21
+21M_R2_001.fastq,sample,16s_mammal assay,21
+22B_R1_001.fastq,sample,12s_bird assay,22
+22B_R2_001.fastq,sample,12s_bird assay,22
+22F_R1_001.fastq,sample,16s_fish assay,22
+22F_R2_001.fastq,sample,16s_fish assay,22
+22M_R1_001.fastq,sample,16s_mammal assay,22
+22M_R2_001.fastq,sample,16s_mammal assay,22
+23B_R1_001.fastq,sample,12s_bird assay,23
+23B_R2_001.fastq,sample,12s_bird assay,23
+23F_R1_001.fastq,sample,16s_fish assay,23
+23F_R2_001.fastq,sample,16s_fish assay,23
+23M_R1_001.fastq,sample,16s_mammal assay,23
+23M_R2_001.fastq,sample,16s_mammal assay,23
+24B_R1_001.fastq,sample,12s_bird assay,24
+24B_R2_001.fastq,sample,12s_bird assay,24
+24F_R1_001.fastq,sample,16s_fish assay,24
+24F_R2_001.fastq,sample,16s_fish assay,24
+24M_R1_001.fastq,sample,16s_mammal assay,24
+24M_R2_001.fastq,sample,16s_mammal assay,24
+25B_R1_001.fastq,sample,12s_bird assay,25
+25B_R2_001.fastq,sample,12s_bird assay,25
+25F_R1_001.fastq,sample,16s_fish assay,25
+25F_R2_001.fastq,sample,16s_fish assay,25
+25M_R1_001.fastq,sample,16s_mammal assay,25
+25M_R2_001.fastq,sample,16s_mammal assay,25
+26B_R1_001.fastq,sample,12s_bird assay,26
+26B_R2_001.fastq,sample,12s_bird assay,26
+26F_R1_001.fastq,sample,16s_fish assay,26
+26F_R2_001.fastq,sample,16s_fish assay,26
+26M_R1_001.fastq,sample,16s_mammal assay,26
+26M_R2_001.fastq,sample,16s_mammal assay,26
+30B_R1_001.fastq,sample,12s_bird assay,30
+30B_R2_001.fastq,sample,12s_bird assay,30
+30F_R1_001.fastq,sample,16s_fish assay,30
+30F_R2_001.fastq,sample,16s_fish assay,30
+30M_R1_001.fastq,sample,16s_mammal assay,30
+30M_R2_001.fastq,sample,16s_mammal assay,30
+31B_R1_001.fastq,sample,12s_bird assay,31
+31B_R2_001.fastq,sample,12s_bird assay,31
+31F_R1_001.fastq,sample,16s_fish assay,31
+31F_R2_001.fastq,sample,16s_fish assay,31
+31M_R1_001.fastq,sample,16s_mammal assay,31
+31M_R2_001.fastq,sample,16s_mammal assay,31
+32B_R1_001.fastq,sample,12s_bird assay,32
+32B_R2_001.fastq,sample,12s_bird assay,32
+32F_R1_001.fastq,sample,16s_fish assay,32
+32F_R2_001.fastq,sample,16s_fish assay,32
+32M_R1_001.fastq,sample,16s_mammal assay,32
+32M_R2_001.fastq,sample,16s_mammal assay,32
+33B_R1_001.fastq,sample,12s_bird assay,33
+33B_R2_001.fastq,sample,12s_bird assay,33
+33F_R1_001.fastq,sample,16s_fish assay,33
+33F_R2_001.fastq,sample,16s_fish assay,33
+33M_R1_001.fastq,sample,16s_mammal assay,33
+33M_R2_001.fastq,sample,16s_mammal assay,33
+35B_R1_001.fastq,sample,12s_bird assay,35
+35B_R2_001.fastq,sample,12s_bird assay,35
+35F_R1_001.fastq,sample,16s_fish assay,35
+35F_R2_001.fastq,sample,16s_fish assay,35
+35M_R1_001.fastq,sample,16s_mammal assay,35
+35M_R2_001.fastq,sample,16s_mammal assay,35
+36B_R1_001.fastq,sample,12s_bird assay,36
+36B_R2_001.fastq,sample,12s_bird assay,36
+36F_R1_001.fastq,sample,16s_fish assay,36
+36F_R2_001.fastq,sample,16s_fish assay,36
+36M_R1_001.fastq,sample,16s_mammal assay,36
+36M_R2_001.fastq,sample,16s_mammal assay,36
+37B_R1_001.fastq,sample,12s_bird assay,37
+37B_R2_001.fastq,sample,12s_bird assay,37
+37F_R1_001.fastq,sample,16s_fish assay,37
+37F_R2_001.fastq,sample,16s_fish assay,37
+37M_R1_001.fastq,sample,16s_mammal assay,37
+37M_R2_001.fastq,sample,16s_mammal assay,37
+38B_R1_001.fastq,sample,12s_bird assay,38
+38B_R2_001.fastq,sample,12s_bird assay,38
+38F_R1_001.fastq,sample,16s_fish assay,38
+38F_R2_001.fastq,sample,16s_fish assay,38
+38M_R1_001.fastq,sample,16s_mammal assay,38
+38M_R2_001.fastq,sample,16s_mammal assay,38
+39B_R1_001.fastq,sample,12s_bird assay,39
+39B_R2_001.fastq,sample,12s_bird assay,39
+39F_R1_001.fastq,sample,16s_fish assay,39
+39F_R2_001.fastq,sample,16s_fish assay,39
+39M_R1_001.fastq,sample,16s_mammal assay,39
+39M_R2_001.fastq,sample,16s_mammal assay,39
+40B_R1_001.fastq,sample,12s_bird assay,40
+40B_R2_001.fastq,sample,12s_bird assay,40
+40F_R1_001.fastq,sample,16s_fish assay,40
+40F_R2_001.fastq,sample,16s_fish assay,40
+40M_R1_001.fastq,sample,16s_mammal assay,40
+40M_R2_001.fastq,sample,16s_mammal assay,40
+41B_R1_001.fastq,sample,12s_bird assay,41
+41B_R2_001.fastq,sample,12s_bird assay,41
+41F_R1_001.fastq,sample,16s_fish assay,41
+41F_R2_001.fastq,sample,16s_fish assay,41
+41M_R1_001.fastq,sample,16s_mammal assay,41
+41M_R2_001.fastq,sample,16s_mammal assay,41
+42B_R1_001.fastq,sample,12s_bird assay,42
+42B_R2_001.fastq,sample,12s_bird assay,42
+42F_R1_001.fastq,sample,16s_fish assay,42
+42F_R2_001.fastq,sample,16s_fish assay,42
+42M_R1_001.fastq,sample,16s_mammal assay,42
+42M_R2_001.fastq,sample,16s_mammal assay,42
+43B_R1_001.fastq,sample,12s_bird assay,43
+43B_R2_001.fastq,sample,12s_bird assay,43
+43F_R1_001.fastq,sample,16s_fish assay,43
+43F_R2_001.fastq,sample,16s_fish assay,43
+43M_R1_001.fastq,sample,16s_mammal assay,43
+43M_R2_001.fastq,sample,16s_mammal assay,43
+44B_R1_001.fastq,sample,12s_bird assay,44
+44B_R2_001.fastq,sample,12s_bird assay,44
+44F_R1_001.fastq,sample,16s_fish assay,44
+44F_R2_001.fastq,sample,16s_fish assay,44
+44M_R1_001.fastq,sample,16s_mammal assay,44
+44M_R2_001.fastq,sample,16s_mammal assay,44
+46B_R1_001.fastq,sample,12s_bird assay,46
+46B_R2_001.fastq,sample,12s_bird assay,46
+46F_R1_001.fastq,sample,16s_fish assay,46
+46F_R2_001.fastq,sample,16s_fish assay,46
+46M_R1_001.fastq,sample,16s_mammal assay,46
+46M_R2_001.fastq,sample,16s_mammal assay,46
+47B_R1_001.fastq,sample,12s_bird assay,47
+47B_R2_001.fastq,sample,12s_bird assay,47
+47F_R1_001.fastq,sample,16s_fish assay,47
+47F_R2_001.fastq,sample,16s_fish assay,47
+47M_R1_001.fastq,sample,16s_mammal assay,47
+47M_R2_001.fastq,sample,16s_mammal assay,47
+48B_R1_001.fastq,sample,12s_bird assay,48
+48B_R2_001.fastq,sample,12s_bird assay,48
+48F_R1_001.fastq,sample,16s_fish assay,48
+48F_R2_001.fastq,sample,16s_fish assay,48
+48M_R1_001.fastq,sample,16s_mammal assay,48
+48M_R2_001.fastq,sample,16s_mammal assay,48
+49B_R1_001.fastq,sample,12s_bird assay,49
+49B_R2_001.fastq,sample,12s_bird assay,49
+49F_R1_001.fastq,sample,16s_fish assay,49
+49F_R2_001.fastq,sample,16s_fish assay,49
+49M_R1_001.fastq,sample,16s_mammal assay,49
+49M_R2_001.fastq,sample,16s_mammal assay,49
+50B_R1_001.fastq,sample,12s_bird assay,50
+50B_R2_001.fastq,sample,12s_bird assay,50
+50F_R1_001.fastq,sample,16s_fish assay,50
+50F_R2_001.fastq,sample,16s_fish assay,50
+50M_R1_001.fastq,sample,16s_mammal assay,50
+50M_R2_001.fastq,sample,16s_mammal assay,50
+51B_R1_001.fastq,sample,12s_bird assay,51
+51B_R2_001.fastq,sample,12s_bird assay,51
+51F_R1_001.fastq,sample,16s_fish assay,51
+51F_R2_001.fastq,sample,16s_fish assay,51
+51M_R1_001.fastq,sample,16s_mammal assay,51
+51M_R2_001.fastq,sample,16s_mammal assay,51
+52B_R1_001.fastq,sample,12s_bird assay,52
+52B_R2_001.fastq,sample,12s_bird assay,52
+52F_R1_001.fastq,sample,16s_fish assay,52
+52F_R2_001.fastq,sample,16s_fish assay,52
+52M_R1_001.fastq,sample,16s_mammal assay,52
+52M_R2_001.fastq,sample,16s_mammal assay,52
+53B_R1_001.fastq,sample,12s_bird assay,53
+53B_R2_001.fastq,sample,12s_bird assay,53
+53F_R1_001.fastq,sample,16s_fish assay,53
+53F_R2_001.fastq,sample,16s_fish assay,53
+53M_R1_001.fastq,sample,16s_mammal assay,53
+53M_R2_001.fastq,sample,16s_mammal assay,53
+55B_R1_001.fastq,sample,12s_bird assay,55
+55B_R2_001.fastq,sample,12s_bird assay,55
+55F_R1_001.fastq,sample,16s_fish assay,55
+55F_R2_001.fastq,sample,16s_fish assay,55
+55M_R1_001.fastq,sample,16s_mammal assay,55
+55M_R2_001.fastq,sample,16s_mammal assay,55
+57B_R1_001.fastq,sample,12s_bird assay,57
+57B_R2_001.fastq,sample,12s_bird assay,57
+57F_R1_001.fastq,sample,16s_fish assay,57
+57F_R2_001.fastq,sample,16s_fish assay,57
+57M_R1_001.fastq,sample,16s_mammal assay,57
+57M_R2_001.fastq,sample,16s_mammal assay,57
+58B_R1_001.fastq,sample,12s_bird assay,58
+58B_R2_001.fastq,sample,12s_bird assay,58
+58F_R1_001.fastq,sample,16s_fish assay,58
+58F_R2_001.fastq,sample,16s_fish assay,58
+58M_R1_001.fastq,sample,16s_mammal assay,58
+58M_R2_001.fastq,sample,16s_mammal assay,58
+C1B_R1_001.fastq,negative control (DNA extraction),12s_bird assay,
+C1B_R2_001.fastq,negative control (DNA extraction),12s_bird assay,
+C1F_R1_001.fastq,negative control (DNA extraction),16s_fish assay,
+C1F_R2_001.fastq,negative control (DNA extraction),16s_fish assay,
+C1M_R1_001.fastq,negative control (DNA extraction),16s_mammal assay,
+C1M_R2_001.fastq,negative control (DNA extraction),16s_mammal assay,
+C2B_R1_001.fastq,negative control (DNA extraction),12s_bird assay,
+C2B_R2_001.fastq,negative control (DNA extraction),12s_bird assay,
+C2F_R1_001.fastq,negative control (DNA extraction),16s_fish assay,
+C2F_R2_001.fastq,negative control (DNA extraction),16s_fish assay,
+C2M_R1_001.fastq,negative control (DNA extraction),16s_mammal assay,
+C2M_R2_001.fastq,negative control (DNA extraction),16s_mammal assay,
+C3B_R1_001.fastq,negative control (DNA extraction),12s_bird assay,
+C3B_R2_001.fastq,negative control (DNA extraction),12s_bird assay,
+C3F_R1_001.fastq,negative control (DNA extraction),16s_fish assay,
+C3F_R2_001.fastq,negative control (DNA extraction),16s_fish assay,
+C3M_R1_001.fastq,negative control (DNA extraction),16s_mammal assay,
+C3M_R2_001.fastq,negative control (DNA extraction),16s_mammal assay,
+C4B_R1_001.fastq,negative control (DNA extraction),12s_bird assay,
+C4B_R2_001.fastq,negative control (DNA extraction),12s_bird assay,
+C4F_R1_001.fastq,negative control (DNA extraction),16s_fish assay,
+C4F_R2_001.fastq,negative control (DNA extraction),16s_fish assay,
+C4M_R1_001.fastq,negative control (DNA extraction),16s_mammal assay,
+C4M_R2_001.fastq,negative control (DNA extraction),16s_mammal assay,
+C5B_R1_001.fastq,negative control (DNA extraction),12s_bird assay,
+C5B_R2_001.fastq,negative control (DNA extraction),12s_bird assay,
+C5F_R1_001.fastq,negative control (DNA extraction),16s_fish assay,
+C5F_R2_001.fastq,negative control (DNA extraction),16s_fish assay,
+C5M_R1_001.fastq,negative control (DNA extraction),16s_mammal assay,
+C5M_R2_001.fastq,negative control (DNA extraction),16s_mammal assay,
+C6B_R1_001.fastq,negative control (DNA extraction),12s_bird assay,
+C6B_R2_001.fastq,negative control (DNA extraction),12s_bird assay,
+C6F_R1_001.fastq,negative control (DNA extraction),16s_fish assay,
+C6F_R2_001.fastq,negative control (DNA extraction),16s_fish assay,
+C6M_R1_001.fastq,negative control (DNA extraction),16s_mammal assay,
+C6M_R2_001.fastq,negative control (DNA extraction),16s_mammal assay,
+NEGB_R1_001.fastq,negative control (field),12s_bird assay,
+NEGB_R2_001.fastq,negative control (field),12s_bird assay,
+NEGF_R1_001.fastq,negative control (field),16s_fish assay,
+NEGF_R2_001.fastq,negative control (field),16s_fish assay,
+NEGM_R1_001.fastq,negative control (field),16s_mammal assay,
+NEGM_R2_001.fastq,negative control (field),16s_mammal assay,
+P1B_R1_001.fastq,negative control (PCR),12s_bird assay,
+P1B_R2_001.fastq,negative control (PCR),12s_bird assay,
+P1F_R1_001.fastq,negative control (PCR),16s_fish assay,
+P1F_R2_001.fastq,negative control (PCR),16s_fish assay,
+P1M_R1_001.fastq,negative control (PCR),16s_mammal assay,
+P1M_R2_001.fastq,negative control (PCR),16s_mammal assay,
+P2B_R1_001.fastq,negative control (PCR),12s_bird assay,
+P2B_R2_001.fastq,negative control (PCR),12s_bird assay,
+P2F_R1_001.fastq,negative control (PCR),16s_fish assay,
+P2F_R2_001.fastq,negative control (PCR),16s_fish assay,
+P2M_R1_001.fastq,negative control (PCR),16s_mammal assay,
+P2M_R2_001.fastq,negative control (PCR),16s_mammal assay,
+P3B_R1_001.fastq,negative control (PCR),12s_bird assay,
+P3B_R2_001.fastq,negative control (PCR),12s_bird assay,
+P3F_R1_001.fastq,negative control (PCR),16s_fish assay,
+P3F_R2_001.fastq,negative control (PCR),16s_fish assay,
+P3M_R1_001.fastq,negative control (PCR),16s_mammal assay,
+P3M_R2_001.fastq,negative control (PCR),16s_mammal assay,
+P3M_R2_001.fastq   ,negative control (PCR),16s_mammal assay,
