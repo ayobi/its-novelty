@@ -13,6 +13,11 @@ Split modes:
                              (query's true FAMILY stays in refs)  -> DEEP novelty
   lso  leave-one-species-out: hold out one species per genus that has >=2 species
                              (query's true GENUS stays in refs)   -> SHALLOW novelty
+  lfo  leave-one-family-out : hold out one family per (named) order that has >=2 families
+                             (query's true ORDER stays in refs)   -> DEEPER novelty
+  loo  leave-one-sequence-out: hold out one sequence per genus that has >=2 species, from a
+                             species with >=2 sequences (query's SPECIES stays in refs)
+                             -> known at species rank; the calibration set for species calls
 
 Run the self-test first:   python prep_split.py --selftest
 Then on real data:         python prep_split.py -i unite_its2.fasta -o out_lgo --mode lgo --seed 0
@@ -127,15 +132,56 @@ def leave_one_species_out(records, seed=0):
     return set(q), set(ref)
 
 
+def leave_one_family_out(records, seed=0):
+    """One held-out family per named order with >=2 families. Held-out family's ORDER stays in refs."""
+    rng = random.Random(seed)
+    order_to_families = defaultdict(set)
+    for r in records.values():
+        if "incertae" in norm(r["o"]) or norm(r["o"]) in BAD:
+            continue                      # a placeholder order is not a taxon to stay present
+        order_to_families[r["o"]].add(r["f"])
+    holdout_families = set()
+    for order in sorted(order_to_families):
+        families = order_to_families[order]
+        if len(families) >= 2:
+            holdout_families.add(rng.choice(sorted(families)))
+    q = [sid for sid, r in records.items() if r["f"] in holdout_families]
+    ref = [sid for sid, r in records.items() if r["f"] not in holdout_families]
+    return set(q), set(ref)
+
+
+def leave_one_sequence_out(records, seed=0):
+    """One held-out sequence per genus with >=2 species, from a species with >=2 sequences.
+    The query's SPECIES stays in refs, so these queries are known at species rank."""
+    rng = random.Random(seed)
+    by_species = defaultdict(list)
+    genus_to_species = defaultdict(set)
+    for sid, r in records.items():
+        by_species[(r["g"], r["s"])].append(sid)
+        genus_to_species[r["g"]].add(r["s"])
+    q = set()
+    for genus in sorted(genus_to_species):
+        species = genus_to_species[genus]
+        if len(species) < 2:
+            continue
+        multi = sorted(sp for sp in species if len(by_species[(genus, sp)]) >= 2)
+        if multi:
+            sp = rng.choice(multi)
+            q.add(rng.choice(sorted(by_species[(genus, sp)])))
+    return q, set(records) - q
+
+
 # ---------- correctness checks ----------
 
 def assert_split_valid(records, q_ids, ref_ids, mode):
     """The whole point of the sibling conditions: every query's true rank must remain in refs."""
-    level = "f" if mode == "lgo" else "g"
-    ref_levels = {records[s][level] for s in ref_ids}
-    missing = sorted({records[s][level] for s in q_ids} - ref_levels)
+    level = {"lgo": "f", "lso": "g", "lfo": "o", "loo": "gs"}[mode]
+    key = (lambda r: (r["g"], r["s"])) if level == "gs" else (lambda r: r[level])
+    ref_levels = {key(records[s]) for s in ref_ids}
+    missing = sorted({key(records[s]) for s in q_ids} - ref_levels)
+    name = {"f": "family", "g": "genus", "o": "order", "gs": "species"}[level]
     assert not missing, (
-        f"INVALID SPLIT ({mode}): {len(missing)} query {('family' if level=='f' else 'genus')}(s) "
+        f"INVALID SPLIT ({mode}): {len(missing)} query {name}(s) "
         f"absent from refs, e.g. {missing[:5]}. Sibling condition failed."
     )
     assert not (q_ids & ref_ids), "A sequence is in both refs and queries."
@@ -171,9 +217,12 @@ def summarize(records, q_ids, ref_ids, mode):
     print(f"  mode                : {mode}")
     print(f"  backbone sequences  : {len(records)}")
     print(f"  reference sequences : {len(ref_ids)}  ({len(ref_g)} genera, {len(ref_f)} families)")
-    print(f"  query sequences     : {len(q_ids)}  "
-          f"({'held-out genera' if mode=='lgo' else 'held-out species'})")
-    novelty = "family present, genus ABSENT (deep)" if mode == "lgo" else "genus present (shallow)"
+    held = {"lgo": "held-out genera", "lso": "held-out species",
+            "lfo": "held-out families", "loo": "held-out sequences"}[mode]
+    print(f"  query sequences     : {len(q_ids)}  ({held})")
+    novelty = {"lgo": "family present, genus ABSENT (deep)", "lso": "genus present (shallow)",
+               "lfo": "order present, family ABSENT (deeper)",
+               "loo": "species present (known at species rank)"}[mode]
     print(f"  novelty regime      : queries have {novelty}")
 
 
@@ -186,11 +235,12 @@ def run_real(args):
         seqs[sid] = seq
         recs[sid] = ranks
     print(f"[read] {len(recs)} sequences from {args.input}")
-    need_species = (args.mode == "lso")
+    need_species = args.mode in ("lso", "loo")
     recs = clean_backbone(recs, need_species=need_species)
     print(f"[clean] {len(recs)} remain after backbone filtering "
           f"(need_species={need_species})")
-    split = leave_one_genus_out if args.mode == "lgo" else leave_one_species_out
+    split = {"lgo": leave_one_genus_out, "lso": leave_one_species_out,
+             "lfo": leave_one_family_out, "loo": leave_one_sequence_out}[args.mode]
     q_ids, ref_ids = split(recs, seed=args.seed)
     assert_split_valid(recs, q_ids, ref_ids, args.mode)
     print("[check] split valid: every query's true rank is present in refs  ✅")
@@ -265,6 +315,23 @@ def run_selftest():
     else:
         print("  [FAIL] LSO emptied a genus"); ok = False
 
+    # --- LFO (all three families sit in one named order "O") ---
+    q, ref = leave_one_family_out(lgo_recs, seed=1)
+    assert_split_valid(lgo_recs, q, ref, "lfo")
+    held_f = {lgo_recs[s]["f"] for s in q}
+    if len(held_f) == 1 and held_f <= {"F1", "F2", "F3"}:
+        print(f"  [ok]   LFO held out {held_f}; order O still present  ✅")
+    else:
+        print(f"  [FAIL] LFO held out {held_f}, expected exactly one family"); ok = False
+
+    # --- LOO (one sequence from G1 and one from G3; their species stay in refs) ---
+    q, ref = leave_one_sequence_out(lso_recs, seed=1)
+    assert_split_valid(lso_recs, q, ref, "loo")
+    if len(q) == 2 and {lso_recs[s]["g"] for s in q} == {"G1", "G3"}:
+        print("  [ok]   LOO held one sequence each from G1 and G3; species still present  ✅")
+    else:
+        print(f"  [FAIL] LOO held {sorted(q)}"); ok = False
+
     print("\nSELFTEST:", "PASS ✅" if ok else "FAIL ❌")
     return 0 if ok else 1
 
@@ -273,7 +340,7 @@ def main():
     ap = argparse.ArgumentParser(description="Phase-0 step 1a: UNITE ITS2 held-out split.")
     ap.add_argument("-i", "--input", help="UNITE ITS2 FASTA (headers with x__ lineage)")
     ap.add_argument("-o", "--out", help="output directory")
-    ap.add_argument("--mode", choices=["lgo", "lso"], default="lgo")
+    ap.add_argument("--mode", choices=["lgo", "lso", "lfo", "loo"], default="lgo")
     ap.add_argument("--seed", type=int, default=0)
     ap.add_argument("--selftest", action="store_true", help="run synthetic correctness test and exit")
     args = ap.parse_args()

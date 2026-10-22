@@ -28,3 +28,10 @@ out_nov*/
 *.bak
 .DS_Store
 __MACOSX/
+
+# revision: new splits, pipeline output, Python caches
+out_loo*/
+out_lfo*/
+refresh*/
+__pycache__/
+.pytest_cache/
